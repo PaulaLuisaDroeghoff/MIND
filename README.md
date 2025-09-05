@@ -1,7 +1,7 @@
 # MIND
 MIND: Multi-Granular INterpretable Detection of Mental Manipulation
 
-This repository contains the implementation for **"MIND: Multi-Granular INterpretable Detection of Mental Manipulation"** on detecting manipulative language at both **sentence-level** and **dialogue-level**, combining and comparing **baseline machine learning models, transformer-based models (DistilRoBERTa), ChatGPT prompting, multi-agent frameworks (CrewAI), and Explainable AI (XAI) methods**.
+This repository contains the implementation for **"MIND: Multi-Granular INterpretable Detection of Mental Manipulation"** on detecting manipulative language at both sentence-level and dialogue-level, combining and comparing baseline machine learning models, transformer-based models (DistilRoBERTa), ChatGPT prompting, multi-agent frameworks (CrewAI), and Explainable AI (XAI) methods.
 
 ---
 
