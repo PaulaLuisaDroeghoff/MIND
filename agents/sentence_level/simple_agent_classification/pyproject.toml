@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "sentence-manipulation-detector"
+version = "0.1.0"
+description = "A CrewAI-based system for detecting manipulative sentences"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+crewai = "^0.30.0"
+pandas = "^2.2.0"
+openpyxl = "^3.1.2"
+
+[tool.poetry.scripts]
+sentence-detector = "sentence_manipulation_detector.main:run"

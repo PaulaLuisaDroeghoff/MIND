@@ -1,0 +1,695 @@
+inner_id,id,text,label,original movie dialogue,movie name,agreement,annotator_1,manipulative_1,technique_1,victim_1,vulnerability_1,marks_1,confidence_1,annotator_2,manipulative_2,technique_2,victim_2,vulnerability_2,marks_2,confidence_2,annotator_3,manipulative_3,technique_3,victim_3,vulnerability_3,marks_3,confidence_3,dialogue_id,category
+2549,85518406,"Person1: You hurt my feelings. I ought to raise the price to be a thousand.
+Person2: If I call the police, your price will go down to a minus sign.
+Person1: Bluff. You've waited too long.
+Person2: For five hundred, what do I get?
+Person1: I go home and paint the kitchen.
+Person2: For two hundred?
+Person1: I stick around and wait for the five hundred.
+Person2: You mentioned information.
+Person1: Sorry. Another client paid for that. You can hire me not to use it.
+Person2: A thousand.
+Person1: Got it on you?
+Person2: Got the information on you?
+Person1: Get it in half an hour.",1,"GOBLE(?):You hurt my feelings. I ought to raise the price to be a thousand. 
+BRANDON(M):If I call the police, your price will go down to a minus sign. 
+GOBLE(?):Bluff. You've waited too long. 
+BRANDON(M):For five hundred, what do I get? 
+GOBLE(?):I go home and paint the kitchen. 
+BRANDON(M):For two hundred? 
+GOBLE(?):I stick around and wait for the five hundred. 
+BRANDON(M):You mentioned information. 
+GOBLE(?):Sorry. Another client paid for that. You can hire me not to use it. 
+BRANDON(M):A thousand. 
+GOBLE(?):Got it on you? 
+BRANDON(M):Got the information on you? 
+GOBLE(?):Get it in half an hour.",playback,100.0,AN14,1,Persuasion or Seduction,1,Dependency,,4,AN1,1,Persuasion or Seduction,1,Dependency,Sorry. Another client paid for that. You can hire me not to use it.,3,AN7,1,Feigning Innocence,1,Dependency,,4,0,manipulative
+1700,85515008,"Person1: You gave $383 to the goddamn housekeeper! What the heck is your problem?
+Person2: She needed it.
+Person1: A $500 tip! For the housekeeper!
+Person2: Her name's Inez. Stop calling her the housekeeper.
+Person1: That's what she is!
+Person2: I know that. But --
+Person1: You're in love with the housekeeper!
+Person2: Shut up!
+Person1: What are you going to do, get married? Have a bunch of little idiot janitor brats! And go around scrubbing the --",1,"DIGNAN(m):You gave $383 to the goddamn housekeeper! What the fuck is your problem? 
+ANTHONY(m):She needed it. 
+DIGNAN(m):A $500 tip! For the housekeeper! 
+ANTHONY(m):Her name's Inez. Stop calling her the housekeeper. 
+DIGNAN(m):That's what she is! 
+ANTHONY(m):I know that. But -- 
+DIGNAN(m):You're in love with the fucking housekeeper! 
+ANTHONY(m):Shut up! 
+DIGNAN(m):What are you going to do, get married? Have a bunch of little idiot janitor brats! And go around scrubbing the --",bottle rocket,100.0,AN1,1,"Shaming or Belittlement,Brandishing Anger,Accusation",1,Low self-esteem,"You gave $383 to the goddamn housekeeper! What the heck is your problem? <break> You're in love with the housekeeper! <break> What are you going to do, get married?",5,AN6,1,"Shaming or Belittlement,Brandishing Anger",0,,"What are you going to do, get married? Have a bunch of little idiot janitor brats! And go around scrubbing the <break> You gave $383 to the goddamn housekeeper! What the heck is your problem?",5,AN11,1,Shaming or Belittlement,1,cannot decide,"You gave $383 to the goddamn housekeeper! What the heck is your problem? <break> What are you going to do, get married? Have a bunch of little idiot janitor brats! And go around scrubbing the --",4,1,manipulative
+2103,85518979,"Person1: What?... Oh suck my dick!
+Person2: What?
+Person1: These assholes are saying that I have to go to Summer school and take some stupid art class!
+Person2: Why?
+Person1: Remember that stupid hippie art teacher who failed me sophomore year? I didn't think that just because you get an ""F"" that means you have to take the class over again.
+Person2: You loser.",1,"ENID(f):What?... Oh suck my fucking dick! 
+REBECCA(f):What? 
+ENID(f):These assholes are saying that I have to go to Summer school and take some stupid art class! 
+REBECCA(f):Why? 
+ENID(f):Remember that stupid hippie art teacher who failed me sophomore year? I didn't think that just because you get an ""F"" that means you have to take the class over again. 
+REBECCA(f):You loser.",ghost world,100.0,AN7,1,Brandishing Anger,0,,,4,AN1,1,"Shaming or Belittlement,Brandishing Anger",0,,These assholes are saying that I have to go to Summer school and take some stupid art class! <break> What?... Oh suck my dick!,4,AN9,1,Shaming or Belittlement,1,cannot decide,,3,2,manipulative
+3403,85514933,"Person1: No, I didn't think she was. Let me get the picture here. Let me guess. She was an absolutely clean girl, a model daughter, she never had rebellious or impure thoughts, she didn't mess around...
+Person2: If I was you, Mr. Mast, I'd watch my language.
+Person1: Hey, I'm a private detective, Van Dorn, you want to hire a choir boy you can go back to Grand Rapids. I've been to that scumbag town. It's full of them.
+Person2: Who's paying you?
+Person1: You are.
+Person2: That's right.
+Person1: As I was saying, I'll pick up the thread. There's a number of ways I can go. There's not much you can do here. Stay if you want. Maybe it'd be better if you went back home. Go through Kristen's personal stuff. Ask around, maybe she knew somebody out here.  Look, I do this a lot. I work at a minimum rate of $750.00 a week. It may seem like a lot of money to you, but it ain't. You could hire cheaper.
+Person2: And better?
+Person1: I suppose. But I'll tell you, Jake, I'm like a little animal. When I get my teeth into something I never let go. If your daughter's here, I'll track her down.",1,"MAST(m):No, I didn't think she was. Let me get the picture here. Let me guess. She was an absolutely clean girl, a model daughter, she never had rebellious or impure thoughts, she didn't fuck around... 
+JAKE(m):If I was you, Mr. Mast, I'd watch my language. 
+MAST(m):Hey, I'm a private detective, Van Dorn, you want to hire a choir boy you can go back to Grand Rapids. I've been to that scumbag town. It's full of them. 
+JAKE(m):Who's paying you? 
+MAST(m):You are. 
+JAKE(m):That's right. 
+MAST(m):As I was saying, I'll pick up the thread. There's a number of ways I can go. There's not much you can do here. Stay if you want. Maybe it'd be better if you went back home. Go through Kristen's personal stuff. Ask around, maybe she knew somebody out here.  Look, I do this a lot. I work at a minimum rate of $750.00 a week. It may seem like a lot of money to you, but it ain't. You could hire cheaper. 
+JAKE(m):And better? 
+MAST(m):I suppose. But I'll tell you, Jake, I'm like a little animal. When I get my teeth into something I never let go. If your daughter's here, I'll track her down.",hardcore,100.0,AN1,1,Shaming or Belittlement,1,Dependency," Let me guess. She was an absolutely clean girl, a model daughter, she never had rebellious or impure thoughts, she didn't mess around... <break> you want to hire a choir boy you can go back to Grand Rapids.",5,AN7,1,"Accusation,Persuasion or Seduction",0,,,4,AN11,1,"Shaming or Belittlement,Intimidation,Persuasion or Seduction",1,Dependency,"Hey, I'm a private detective, Van Dorn, you want to hire a choir boy you can go back to Grand Rapids. I've been to that scumbag town. It's full of them. <break> There's a number of ways I can go. There's not much you can do here. <break> But I'll tell you, Jake, I'm like a little animal. When I get my teeth into something I never let go. If your daughter's here, I'll track her down.",4,3,manipulative
+3155,85515576,"Person1: Let me worry about that, Major. I've still got my red line to the Air Command.
+Person2: That's right, sir.
+Person1: We don't want to be vulnerable to saboteurs calling up and pretending to be different people from the President down, do we?
+Person2: You're right, sir.
+Person1: No calls from inside out.  No calls from outside in are even answered.  No calls.
+Person2: I understand, sir.  Nothing comes or goes without your personal say-so.
+Person1: No calls at all.  With or without my say-so. My voice can be imitated too, Major.
+Person2: Yes, sir.  I just thought of something, sir.  How do I know I'm talking to you now?
+Person1: Who do you think you're talking to?
+Person2: To you, sir.  But how do I know?
+Person1: Are you trying to be insubordinate?
+Person2: No, sir.
+Person1: I hope not.  Now, as soon as you do what I told you, have Plan-R radioed to the Wing.
+Person2: Plan-R????
+Person1: Are you hard of hearing, Major?
+Person2: No, sir.  Plan-R to be radioed to the Wing.
+Person1: As soon as you've done that, shut down the communications center.  Lock it up and assign the personnel to base security details.
+Person2: General Ripper, if I shut down the communi- cations center, there'll be no radio or teleprinter contact with Air Command head- quarters or anyone, for that matter.
+Person1: Are you questioning my orders, Major?
+Person2: No, sir.  I'm just bringing the facts to your attention, sir.
+Person1: You're a good officer, Major, and you're perfectly right to bring these facts to my attention.
+Person2: Thank you, sir.
+Person1: Now, as soon as you've done that, double- up on all base security teams.  Our enemies are plenty smart, and there might even be an attack on the base by saboteurs.
+Person2: Yes, sir.
+Person1: And lastly, all privately owned radios are to be immediately impounded.  They can be used to issue instructions to saboteurs. Air Police will have lists of all owners.",1,"GENERAL JACK D. RIPPER(m):Let me worry about that, Major. I've still got my red line to the Air Command. 
+MAJOR MANDRAKE(M):That's right, sir. 
+GENERAL JACK D. RIPPER(m):We don't want to be vulnerable to saboteurs calling up and pretending to be different people from the President down, do we? 
+MAJOR MANDRAKE(M):You're right, sir. 
+GENERAL JACK D. RIPPER(m):No calls from inside out.  No calls from outside in are even answered.  No calls. 
+MAJOR MANDRAKE(M):I understand, sir.  Nothing comes or goes without your personal say-so. 
+GENERAL JACK D. RIPPER(m):No calls at all.  With or without my say-so. My voice can be imitated too, Major. 
+MAJOR MANDRAKE(M):Yes, sir.  I just thought of something, sir.  How do I know I'm talking to you now? 
+GENERAL JACK D. RIPPER(m):Who do you think you're talking to? 
+MAJOR MANDRAKE(M):To you, sir.  But how do I know? 
+GENERAL JACK D. RIPPER(m):Are you trying to be insubordinate? 
+MAJOR MANDRAKE(M):No, sir. 
+GENERAL JACK D. RIPPER(m):I hope not.  Now, as soon as you do what I told you, have Plan-R radioed to the Wing. 
+MAJOR MANDRAKE(M):Plan-R???? 
+GENERAL JACK D. RIPPER(m):Are you hard of hearing, Major? 
+MAJOR MANDRAKE(M):No, sir.  Plan-R to be radioed to the Wing. 
+GENERAL JACK D. RIPPER(m):As soon as you've done that, shut down the communications center.  Lock it up and assign the personnel to base security details. 
+MAJOR MANDRAKE(M):General Ripper, if I shut down the communi- cations center, there'll be no radio or teleprinter contact with Air Command head- quarters or anyone, for that matter. 
+GENERAL JACK D. RIPPER(m):Are you questioning my orders, Major? 
+MAJOR MANDRAKE(M):No, sir.  I'm just bringing the facts to your attention, sir. 
+GENERAL JACK D. RIPPER(m):You're a good officer, Major, and you're perfectly right to bring these facts to my attention. 
+MAJOR MANDRAKE(M):Thank you, sir. 
+GENERAL JACK D. RIPPER(m):Now, as soon as you've done that, double- up on all base security teams.  Our enemies are plenty smart, and there might even be an attack on the base by saboteurs. 
+MAJOR MANDRAKE(M):Yes, sir. 
+GENERAL JACK D. RIPPER(m):And lastly, all privately owned radios are to be immediately impounded.  They can be used to issue instructions to saboteurs. Air Police will have lists of all owners.",dr. strangelove or: how i learned to stop worrying and love the bomb,100.0,AN12,1,"Playing Servant Role,Accusation",1,Over-intellectualization,"Are you questioning my orders, Major? <break> We don't want to be vulnerable to saboteurs calling up and pretending to be different people from the President down, do we?",5,AN1,1,Intimidation,1,Low self-esteem,"Are you trying to be insubordinate? <break> Are you questioning my orders, Major?",4,AN10,1,"Playing Servant Role,Intimidation,Accusation",1,"Over-responsibility,Low self-esteem","e don't want to be vulnerable to saboteurs calling up and pretending to be different people from the President down, do we? <break> Are you trying to be insubordinate? <break> Are you hard of hearing, Major? <break> Are you questioning my orders, Major?",3,4,manipulative
+2560,85519065,"Person1: Christ, Jon!  How could you do this to yourself? How could you do this to us?  Do you know -- do you know what he did to me ...?
+Person2: Whatever happened, whatever he did -- I know it's my fault and I know I can never make it up to you --",1,"EVE(f):Christ, Jon!  How could you do this to yourself? How could you do this to us?  Do you know -- do you know what he did to me ...? 
+ARCHER(m):Whatever happened, whatever he did -- I know it's my fault and I know I can never make it up to you --",face/off,100.0,AN1,1,Accusation,1,"Dependency,Over-responsibility",How could you do this to yourself? How could you do this to us? Do you know -- do you know what he did to me ...?,4,AN7,1,Brandishing Anger,0,,,3,AN9,1,Evasion,1,Naivete,"Whatever happened, whatever he did -- I know it's my fault and I know I can never make it up to you ",2,5,manipulative
+3521,85515127,"Person1: ...and her heart stopped and she wasn't getting oxygen.
+Person2: That's right.
+Person1: And what did your team do...
+Person2: Well, we...
+Person1: ...You brought thirty years of medical experience to bear.  Isn't that what you did?
+Person2: Yes.
+Person1: ...A patient riddled with complications, questionable information on her, on her admitting form...
+Person2: ...We did everything we could...
+Person1: ...to save her and to save the baby.  Is that...
+Person2: Yes!
+Person1: You reached down into death.  Now, isn't that right?
+Person2: My God, we tried to save her...You can't know...You can't know...
+Person1: Tell us.",1,"CONCANNON(m):...and her heart stopped and she wasn't getting oxygen. 
+DR. TOWLER(m):That's right. 
+CONCANNON(m):And what did your team do... 
+DR. TOWLER(m):Well, we... 
+CONCANNON(m):...You brought thirty years of medical experience to bear. Isn't that what you did? 
+DR. TOWLER(m):Yes. 
+CONCANNON(m):...A patient riddled with complications, questionable information on her, on her admitting form... 
+DR. TOWLER(m):...We did everything we could... 
+CONCANNON(m):...to save her and to save the baby. Is that... 
+DR. TOWLER(m):Yes! 
+CONCANNON(m):You reached down into death. Now, isn't that right? 
+DR. TOWLER(m):My God, we tried to save her... You can't know... You can't know... 
+CONCANNON(m):Tell us.",the verdict,100.0,AN1,1,Shaming or Belittlement,1,Over-responsibility,"You brought thirty years of medical experience to bear. Isn't that what you did? <break> You reached down into death. Now, isn't that right?",4,AN11,1,Accusation,1,Over-responsibility,,2,AN17,1,Shaming or Belittlement,1,"Over-responsibility,Low self-esteem","You reached down into death. Now, isn't that right?",4,6,manipulative
+258,85516142,"Person1: We ran out without my shoes and the floor.  I gotta get my stuff.  What about our savings?
+Person2: Are you crazy?  The joint is crawling with cops now.  You wanna go to Rikers?  Go to the hoosegow?",1,"MANRAY(?):We ran out without my shoes and the floor.  I gotta get my stuff.  What about our savings? 
+CHEEBA(?):Are you crazy?  The joint is crawling with cops now.  You wanna go to Rikers?  Go to the hoosegow?",bamboozled,33.33333333333333,AN15,1,"Denial,Evasion,Intimidation",1,"Dependency,Over-intellectualization",,4,AN2,0,,0,,,5,AN1,1,"Shaming or Belittlement,Intimidation",1,"Dependency,Over-intellectualization",Are you crazy? The joint is crawling with cops now. You wanna go to Rikers? Go to the hoosegow?,5,7,manipulative
+1636,85514536,"Person1: I swear to God Charlie...my arm still hurts from the car accident...that's why I didn't go to work.  I swear it.
+Person2: That's not going to help.
+Person1: I'm going to work this week...I mean it.
+Person2: It's impossible for you to catch up on the loan now...the interest is going up...$3,000...do you realize that, flash?
+Person1: I'm sorry Charlie...I didn't mean it.
+Person2: Big deal...in the meantime, it's done...I'll still try to help you out...You know that...but you gotta show some effort...some respect... understand?
+Person1: Charlie, you know the best way to take care of this whole mess.
+Person2: How?
+Person1: If you had a little talk with your uncle...if anybody can do it, he can.
+Person2: That'll help you out fine.  That's the best way for you, not for me! I swear to God, I'll rip you open if my uncle ever hears a word about this.  You understand?  I don't care what happens, he doesn't find out.",1,"JOHNNY BOY(m):I swear to God Charlie...my arm still hurts from the car accident...that's why I didn't go to work.  I swear it. 
+CHARLIE(m):That's not going to help. 
+JOHNNY BOY(m):I'm going to work this week...I mean it. 
+CHARLIE(m):It's impossible for you to catch up on the loan now...the interest is going up...$3,000...do you realize that, flash? 
+JOHNNY BOY(m):I'm sorry Charlie...I didn't mean it. 
+CHARLIE(m):Big deal...in the meantime, it's done...I'll still try to help you out...You know that...but you gotta show some effort...some respect... understand? 
+JOHNNY BOY(m):Charlie, you know the best way to take care of this whole mess. 
+CHARLIE(m):How? 
+JOHNNY BOY(m):If you had a little talk with your uncle...if anybody can do it, he can. 
+CHARLIE(m):That'll help you out fine.  That's the best way for you, not for me! I swear to God, I'll rip you open if my uncle ever hears a word about this.  You understand?  I don't care what happens, he doesn't find out.",halloween iii: season of the witch,100.0,AN1,1,"Shaming or Belittlement,Intimidation,Brandishing Anger",1,"Over-responsibility,Over-intellectualization","That's the best way for you, not for me! I swear to God, I'll rip you open if my uncle ever hears a word about this. You understand? I don't care what happens, he doesn't find out. <break> You know that...but you gotta show some effort <break> It's impossible for you to catch up on the loan now...the interest is going up...$3,000...do you realize that, flash?",5,AN11,1,Brandishing Anger,1,Dependency,"I swear to God, I'll rip you open if my uncle ever hears a word about this.",4,AN15,1,"Rationalization,Playing Victim Role,Intimidation",1,"Dependency,Low self-esteem",,4,8,manipulative
+272,85515810,"Person1: Yes, but no one is in control of their emotions.  that's all we have time for today...
+Person2: I don't understand.
+Person1: You said that you have ""decided."" That your... your feelings of persecution, as you put it are a ""self-indulgence,"" and you are going to put them aside.  And get on with your job.
+Person2: That's right.
+Person1: And you have decided to accept... to accept this ""emotion,"" as you put it, to the ... the ""sweepings. of the Lechter case.
+Person2: Yes.
+Person1: And you've decided to get married.  You've decided a lot of things.  But, in spite of your decisions--you are still ""nagged"" by feelings of despair, of failure of... you still have the nightmare, you...
+Person2: What is your point?
+Person1: That if decision were a useful tool, you wouldn't be here.  Why are you here...?
+Person2: I..
+Person1: ...yes...?
+Person2: I want to do something positive...
+Person1: You want some advice.
+Person2: Yes.
+Person1: Your life has been defined by institutions.  The Orphanage where you were raised, the FBI Academy, the Bureau.  If the Institution is your life, accept it.  Ask to be reinstated on the ""Drumgo"" task force.  Play their game.
+Person2: ...why?
+Person1: Because it's the game you've chosen. That's really all we have time for.",1,"PSYCHIATRIST(?):Yes, but no one is in control of their emotions.  that's all we have time for today... 
+STARLING(f):I don't understand. 
+PSYCHIATRIST(?):You said:  that you have ""decided."" That your... your feelings of persecution, as you put it are a ""self- indulgence,"" and you are going to put them aside.  And get on with your job. 
+STARLING(f):That's right. 
+PSYCHIATRIST(?):And you have decided to accept... to accept this ""emotion,"" as you put it, to the ... the ""sweepings. of the Lechter case. 
+STARLING(f):Yes. 
+PSYCHIATRIST(?):And you've decided to get <u>married</u>.  You've decided a <u>lot</u> of things.  But, in spite of your decisions--you are still ""nagged"" by feelings of:  <u>despair</u>, of <u>failure</u> of... you still have the <u>nightmare</u>, you... 
+STARLING(f):What is your point? 
+PSYCHIATRIST(?):That if <u>decision</u> were a useful tool, you wouldn't <u>be</u> here.  Why are you here...? 
+STARLING(f):I.. 
+PSYCHIATRIST(?):...yes...? 
+STARLING(f):I want to do something <u>positive</u>... 
+PSYCHIATRIST(?):You want some <u>advice</u>. 
+STARLING(f):Yes. 
+PSYCHIATRIST(?):Your life has been defined by institutions.  The Orphanage where you were raised, the FBI Academy, the Bureau.  If the Institution is your life, <u>accept</u> it.  Ask to be reinstated on the ""Drumgo"" task force.  Play their game. 
+STARLING(f):...why? 
+PSYCHIATRIST(?):Because it's the game you've chosen. That's really all we have time for.",hannibal,100.0,AN1,1,"Accusation,Persuasion or Seduction",1,"Over-intellectualization,Low self-esteem","And you've decided to get married. You've decided a lot of things. But, in spite of your decisions--you are still ""nagged"" by feelings of despair, of failure of... you still have the nightmare, you... <break> That if decision were a useful tool, you wouldn't be here. Why are you here...?",5,AN12,1,Accusation,0,,And you've decided to get married. You've decided a lot of things. <break> Because it's the game you've chosen. ,3,AN6,1,"Accusation,Persuasion or Seduction",0,,,3,9,manipulative
+3732,85517121,"Person1: Do you mind if I smoke, Mr. Garrison?
+Person2: How could I?  Dave, as you know, President Kennedy was assassinated on Friday.  A man named Lee Harvey Oswald was arrested as a suspect and then was murdered yesterday by a man named Jack Ruby.  We've heard reports that Oswald spent the summer in New Orleans and we've been advised you knew Oswald pretty well.
+Person1: That's not true.  I never met anybody named Oswald.  Anybody who told you that has to be crazy.
+Person2: But you are aware, he served in your Civil Air Patrol unit when he was a teenager.
+Person1: No... if he did, I don't remember him.  There were lots of kids in and out... y'know.
+Person2: I'm sure you've seen this.  Perhaps you knew this man under another name?
+Person1: No, I never saw him before in my life.
+Person2: Well that must've been mistaken information we got.  Thanks for straightening it out for us.  There is one other matter that's come up, Dave.  We were told you took a trip to Texas shortly after the assassination of Friday.
+Person1: Yeah, now that's true.  I drove to Houston.
+Person2: What was so appealing about Houston?
+Person1: I hadn't been there ice skating in many years, and I had a couple of young friends with me, and we decided we wanted to go ice skating.
+Person2: Dave, may I ask why the urge to go ice skating in Texas happened to strike you during one of the most violent thunderstorms in recent memory?
+Person1: Oh, it was just a spur of the moment thing...  the storm wasn't that bad.
+Person2: I see.  And where did you drive?
+Person1: We went straight to Houston, and then Saturday night we drove to Galveston and stayed over there.
+Person2: Why Galveston?
+Person1: No particular reason.  Just to go somewhere.
+Person2: And then Sunday?
+Person1: In the morning we went goose hunting. Then headed home, but I dropped the boys off to see some relatives and I stayed in Hammond.
+Person2: Did you bag any geese on this trip?
+Person1: I believe the boys got a couple.
+Person2: But the boys told us they didn't get any.
+Person1: Oh yes, well, come to think of it, they're right.  We got to where the geese were and there were thousands of them.  But you couldn't approach them.  They were a wise bunch of birds.
+Person2: Your young friends also told us you had no weapons in the car.  Dave, isn't it a bit difficult to hunt for geese without a shotgun?
+Person1: Yes, now I remember, Mr. Garrison. I'm sorry, I got confused.  We got out there near the geese and it was only then we realized we'd forgotten our shotguns.  Stupid, right?  So of course we didn't get any geese.
+Person2: I see.  Dave thank you for your time.  I'm sorry it has to end inconveniently for you, but I'm going to have you detained for further questioning by the FBI.
+Person1: Why?  What's wrong?
+Person2: Dave, I find your story simply not believable.",1,"FERRIE(m):Do you mind if I smoke, Mr. Garrison? 
+JIM(m):How could I?  Dave, as you know, President Kennedy was assassinated on Friday.  A man named Lee Harvey Oswald was arrested as a suspect and then was murdered yesterday by a man named Jack Ruby.  We've heard reports that Oswald spent the summer in New Orleans and we've been advised you knew Oswald pretty well. 
+FERRIE(m):That's not true.  I never met anybody named Oswald.  Anybody who told you that has to be crazy. 
+JIM(m):But you are aware, he served in your Civil Air Patrol unit when he was a teenager. 
+FERRIE(m):No... if he did, I don't remember him.  There were lots of kids in and out... y'know. 
+JIM(m):I'm sure you've seen this.  Perhaps you knew this man under another name? 
+FERRIE(m):No, I never saw him before in my life. 
+JIM(m):Well that must've been mistaken information we got.  Thanks for straightening it out for us.  There is one other matter that's come up, Dave.  We were told you took a trip to Texas shortly after the assassination of Friday. 
+FERRIE(m):Yeah, now that's true.  I drove to Houston. 
+JIM(m):What was so appealing about Houston? 
+FERRIE(m):I hadn't been there ice skating in many years, and I had a couple of young friends with me, and we decided we wanted to go ice skating. 
+JIM(m):Dave, may I ask why the urge to go ice skating in Texas happened to strike you during one of the most violent thunderstorms in recent memory? 
+FERRIE(m):Oh, it was just a spur of the moment thing...  the storm wasn't that bad. 
+JIM(m):I see.  And where did you drive? 
+FERRIE(m):We went straight to Houston, and then Saturday night we drove to Galveston and stayed over there. 
+JIM(m):Why Galveston? 
+FERRIE(m):No particular reason.  Just to go somewhere. 
+JIM(m):And then Sunday? 
+FERRIE(m):In the morning we went goose hunting. Then headed home, but I dropped the boys off to see some relatives and I stayed in Hammond. 
+JIM(m):Did you bag any geese on this trip? 
+FERRIE(m):I believe the boys got a couple. 
+JIM(m):But the boys told us they didn't get any. 
+FERRIE(m):Oh yes, well, come to think of it, they're right.  We got to where the geese were and there were thousands of them.  But you couldn't approach them.  They were a wise bunch of birds. 
+JIM(m):Your young friends also told us you had no weapons in the car.  Dave, isn't it a bit difficult to hunt for geese without a shotgun? 
+FERRIE(m):Yes, now I remember, Mr. Garrison. I'm sorry, I got confused.  We got out there near the geese and it was only then we realized we'd forgotten our shotguns.  Stupid, right?  So of course we didn't get any geese. 
+JIM(m):I see.  Dave thank you for your time.  I'm sorry it has to end inconveniently for you, but I'm going to have you detained for further questioning by the FBI. 
+FERRIE(m):Why?  What's wrong? 
+JIM(m):Dave, I find your story simply not believable.",jfk,100.0,AN11,1,"Denial,Feigning Innocence",0,,"Yes, now I remember, Mr. Garrison. I'm sorry, I got confused.  <break> No, I never saw him before in my life. <break> No... if he did, I don't remember him. There were lots of kids in and out... y'know. <break> That's not true. I never met anybody named Oswald. Anybody who told you that has to be crazy.",5,AN1,1,Accusation,1,"Over-responsibility,Over-intellectualization","I see. Dave thank you for your time. I'm sorry it has to end inconveniently for you, but I'm going to have you detained for further questioning by the FBI.",3,AN13,1,Denial,0,,,3,10,manipulative
+2660,85516250,"Person1: Hey, sweet cheeks.
+Person2: Hi, Joey.
+Person1: You're concentrating awfully hard considering it's gym class.",1,"JOEY(m):Hey, sweet cheeks. 
+BIANCA(f):Hi, Joey. 
+JOEY(m):You're concentrating awfully hard considering it's gym class.",10 things i hate about you,33.33333333333333,AN5,0,,0,,,5,AN15,1,"Rationalization,Shaming or Belittlement",0,,,4,AN2,0,,0,,,5,11,manipulative
+2542,85515922,"Person1: So what made you change your mind about Sidney?
+Person2: Mood swing. I'm manic depressive.
+Person1: You're a hard one to figure out. GALE It's that complex yet shallow quality. It's deliberate.
+Person1: I think you're all an act.
+Person2: And deep down I'm a good person? Make no mistake, Dewey, I'm a shit.
+Person1: I know that.
+Person2: Yeah?
+Person1: I also know that you're an aging TV reporter slash writer who, despite huge tabloid success, has some self worth issues regarding your personal life which directly effects your professional life in a non-positive manner. A coupla failed relationships with--I'm guessing balding, older men--have turned you into this bitch with a cell phone. But I bet sometimes, late at night, when you're all alone a sadness seeps to the surface and in a moment of clarity you know that all you really want is to be touched and held and fondled.",1,"DEWEY(m):So what made you change your mind about Sidney? 
+GALE(f):Mood swing. I'm manic depressive. 
+DEWEY(m):You're a hard one to figure out. GALE It's that complex yet shallow quality. It's deliberate. 
+DEWEY(m):I think you're all an act. 
+GALE(f):And deep down I'm a good person? Make no mistake, Dewey, I'm a shit. 
+DEWEY(m):I know that. 
+GALE(f):Yeah? 
+DEWEY(m):I also know that you're an aging TV reporter slash writer who, despite huge tabloid success, has some self worth issues regarding your personal life which directly effects your professional life in a non-positive manner. A coupla failed relationships with--I'm guessing balding, older men--have turned you into this bitch with a cell phone. But I bet sometimes, late at night, when you're all alone a sadness seeps to the surface and in a moment of clarity you know that all you really want is to be touched and held and fondled.",scream 2,100.0,AN12,1,Shaming or Belittlement,0,,"It's deliberate.
+Person1
+-
+I think you're all an act. <break> I also know that you're an aging TV reporter slash writer who, despite huge tabloid success, has some self worth issues regarding your personal life which directly effects your professional life in a non-positive manner. A coupla failed relationships with--I'm guessing balding, older men--have turned you into this bitch with a cell phone. But I bet sometimes, late at night, when you're all alone a sadness seeps to the surface and in a moment of clarity you know that all you really want is to be touched and held and fondled.",3,AN6,1,"Shaming or Belittlement,Accusation",1,Low self-esteem,,4,AN1,1,"Shaming or Belittlement,Persuasion or Seduction",1,"Dependency,Low self-esteem","I also know that you're an aging TV reporter slash writer who, despite huge tabloid success, has some self worth issues regarding your personal life which directly effects your professional life in a non-positive manner. A coupla failed relationships with--I'm guessing balding, older men--have turned you into this bitch with a cell phone. But I bet sometimes, late at night, when you're all alone a sadness seeps to the surface and in a moment of clarity you know that all you really want is to be touched and held and fondled. <break> I think you're all an act.",5,12,manipulative
+419,85518114,"Person1: Ah, go chase yourself. I'll take my business elsewhere. And for future reference, you are no longer welcome at Ray's Boom-Boom Room.
+Person2: There is no Boom-Boom Room.
+Person1: When there is, you can forget about it. And I swear to God, you ever talk about my daddy again I'm gonna kick your bank-telling, loan-denying ass, you got me?
+Person2: Oooh...
+Person1: I think I liked you better when you kept your trap shut.",1,"RAY(M):Ah, go chase yourself. I'll take my business elsewhere. And for future reference, you are no longer welcome at Ray's Boom-Boom Room. 
+CLAUDE(M):There is no Boom-Boom Room. 
+RAY(M):When there is, you can forget about it. And I swear to God, you ever talk about my daddy again I'm gonna kick your bank-telling, loan-denying ass, you got me? 
+CLAUDE(M):Oooh... 
+RAY(M):I think I liked you better when you kept your trap shut.",the life of david gale,100.0,AN1,1,"Shaming or Belittlement,Intimidation",1,Dependency,"And I swear to God, you ever talk about my daddy again I'm gonna kick your bank-telling, loan-denying ass, you got me? <break> I think I liked you better when you kept your trap shut.",4,AN10,1,"Denial,Evasion,Intimidation",0,,"you ever talk about my daddy again I'm gonna kick your bank-telling, loan-denying ass, you got me?",3,AN7,1,"Brandishing Anger,Persuasion or Seduction",1,Low self-esteem,,4,13,manipulative
+145,85515925,"Person1: Don't take that.  Tell him to shut up.
+Person2: I can't do that.  He's the Man.  He'll fire my ass.
+Person1: So what?
+Person2: I need the job.
+Person1: No you don't.",1,"VINCENT(m):Don't take that.  Tell him to shut the fuck up. 
+MAX(m):I can't do that.  He's the Man.  He'll fire my ass. 
+VINCENT(m):So what? 
+MAX(m):I need the job. 
+VINCENT(m):No you don't.",collateral,100.0,AN6,1,Playing Victim Role,0,,,5,AN1,1,Persuasion or Seduction,1,Low self-esteem,No you don't. <break> So what?,5,AN12,1,cannot decide,0,,,2,14,manipulative
+1376,85516266,"Person1: How could I? I'm helping you clean up Mark's remains and you ask how could I cheat on George?
+Person2: You're right. It's just, I can't cover up a murder so George won't know you're cheating.
+Person1: You say murder, but you have no idea what happened. You don't remember doing it, so it's out of your control.
+Person2: I think I turned into a werewolf and killed him.
+Person1: Why would you do that?
+Person2: I could smell another woman on him.
+Person1: If you ask me, the jerk got what he deserved. I'm glad he's dead.
+Person2: That's a terrible thing to say. Frida goes back to scrubbing the floor.
+Person1: Okay, let's say that this is PMS- related. You think those male cops are going to understand that? You'll either be locked up for murder or locked up in the looney bin. We have to keep this hidden until we figure it out ourselves.",1,"JENNIFER(F):How could I? I'm helping you clean up Mark's remains and you ask how could I cheat on George? 
+FRIDA(F):You're right. It's just, I can't cover up a murder so George won't know you're cheating. 
+JENNIFER(F):You say murder, but you have no idea what happened. You don't remember doing it, so it's out of your control. 
+FRIDA(F):I think I turned into a werewolf and killed him. 
+JENNIFER(F):Why the fuck would you do that? 
+FRIDA(F):I could smell another woman on him. 
+JENNIFER(F):If you ask me, the fucker got what he deserved. I'm glad he's dead. 
+FRIDA(F):That's a terrible thing to say. Frida goes back to scrubbing the floor. 
+JENNIFER(F):Okay, let's say that this is PMS- related. You think those male cops are going to understand that? You'll either be locked up for murder or locked up in the looney bin. We have to keep this hidden until we figure it out ourselves.",the curse,33.33333333333333,AN2,0,,0,,,4,AN15,1,"Rationalization,Playing Victim Role",1,"Dependency,Over-responsibility",,5,AN5,1,"Brandishing Anger,Accusation",1,"Dependency,Low self-esteem",,5,15,manipulative
+3611,85518168,"Person1: So where do you know Alan from?
+Person2: We play tennis at the club.
+Person1: Really. The California Racquet Club?
+Person2: Yes.
+Person1: That's my club too. I haven't seen you there.
+Person2: Well, I haven't played in a while because of these kidney pains.
+Person1: Right, and how long have you had these pains, Mr. Barber?
+Person2: That's Babar.
+Person1: Two bs?
+Person2: One. B-a-b-a-r.
+Person1: That's two.
+Person2: But not right next to each other. I thought that's what you meant.
+Person1: Arnold Babar. Isn't there a children's book about an elephant named Babar?
+Person2: I don't know. I don't have any.
+Person1: No children?
+Person2: No books. No elephants either. No really good elephant books.
+Person1: Still, it'd an odd name. I don't remember seeing it on the club registry.",1,"DR. DOLEN(M):So where do you know Alan from? 
+FLETCH(m):We play tennis at the club. 
+DR. DOLEN(M):Really. The California Racquet Club? 
+FLETCH(m):Yes. 
+DR. DOLEN(M):That's my club too. I haven't seen you there. 
+FLETCH(m):Well, I haven't played in a while because of these kidney pains. 
+DR. DOLEN(M):Right, and how long have you had these pains, Mr. Barber? 
+FLETCH(m):That's Babar. 
+DR. DOLEN(M):Two bs? 
+FLETCH(m):One. B-a-b-a-r. 
+DR. DOLEN(M):That's two. 
+FLETCH(m):But not right next to each other. I thought that's what you meant. 
+DR. DOLEN(M):Arnold Babar. Isn't there a children's book about an elephant named Babar? 
+FLETCH(m):I don't know. I don't have any. 
+DR. DOLEN(M):No children? 
+FLETCH(m):No books. No elephants either. No really good elephant books. 
+DR. DOLEN(M):Still, it'd an odd name. I don't remember seeing it on the club registry.",fletch,33.33333333333333,AN10,1,Shaming or Belittlement,0,," Isn't there a children's book about an elephant named Babar? <break> Still, it'd an odd name.",4,AN7,1,Shaming or Belittlement,0,," and how long have you had these pains, Mr. Barber?",3,AN1,0,,0,,,4,16,manipulative
+3543,85515309,"Person1: Magua would use the ways of Les Francais and the Yengeese...
+Person2: The red man put down the bow, picked up the fire stick and became the best warrior in the forest. Yes. It is the only way.
+Person1: Would the Huron make his Algonquin brothers foolish with brandy and steal his lands to sell them for gold to the white man?  Would the Huron have greed for more land than a man can use? Like Francais Black Robes do?  Would Huron kill tribes with disease? Would the Huron fool Seneca into taking all the animals in the forest for beads & brandy? But sell the fur to the white man for gold?...  Those are the ways of Yengeese and Les Francais masters. Are they the ways of Huron men who hunt & work the land? Or of dogs?  ...Magua's heart is twisted. He would make himself into what twisted him. A Dog, become Master of Dogs. But are Hurons dogs?  ...Magua's way is false. It is like the white sickness. Magua's way will bring only sadness and shame. Is there another way? I don't know.  I am Nathaniel of the Yengeese; Hawkeye, adopted son of Chingachgook, of the Mohican people... Let the children of the dead Munro go free... I speak the truth.",1,"HAWKEYE(m):Magua would use the ways of Les Francais and the Yengeese... 
+MAGUA(?):The red man put down the bow, picked up the fire stick and became the best warrior in the forest. Yes. It is the only way. 
+HAWKEYE(m):Would the Huron make his Algonquin brothers foolish with brandy and steal his lands to sell them for gold to the white man?  Would the Huron have greed for more land than a man can use? Like Francais Black Robes do?  Would Huron kill tribes with disease? Would the Huron fool Seneca into taking all the animals in the forest for beads & brandy? But sell the fur to the white man for gold?...  Those are the ways of Yengeese and Les Francais masters. Are they the ways of Huron men who hunt & work the land? Or of dogs?  ...Magua's heart is twisted. He would make himself into what twisted him. A Dog, become Master of Dogs. But are Hurons dogs?  ...Magua's way is false. It is like the white sickness. Magua's way will bring only sadness and shame. Is there another way? I don't know.  I am Nathaniel of the Yengeese; Hawkeye, adopted son of Chingachgook, of the Mohican people... Let the children of the dead Munro go free... I speak the truth.",last of the mohicans,33.33333333333333,AN2,1,cannot decide,0,,"Would the Huron make his Algonquin brothers foolish with brandy and steal his lands to sell them for gold to the white man? Would the Huron have greed for more land than a man can use? Like Francais Black Robes do? Would Huron kill tribes with disease? Would the Huron fool Seneca into taking all the animals in the forest for beads & brandy? But sell the fur to the white man for gold?... Those are the ways of Yengeese and Les Francais masters. Are they the ways of Huron men who hunt & work the land? Or of dogs? ...Magua's heart is twisted. He would make himself into what twisted him. A Dog, become Master of Dogs. But are Hurons dogs? ...Magua's way is false. It is like the white sickness. Magua's way will bring only sadness and shame. Is there another way? I don't know. I am Nathaniel of the Yengeese; Hawkeye, adopted son of Chingachgook, of the Mohican people... Let the children of the dead Munro go free... I speak the trut",4,AN1,0,,0,,,3,AN12,0,,0,,,1,17,manipulative
+2328,85518126,"Person1: I -- I don't know, you can't ask me that.
+Person2: Well, if you want to get her in the sack, tell her you love her.  That's how I was duped.
+Person1: I don't want to dupe her, Jessica.  If I say it, I have to be sure I mean it.
+Person2: Well it's up to you.  The Big L, or the Big O.",1,"KEVIN(m):I -- I don't know, you can't ask me that. 
+JESSICA(f):Well, if you want to get her in the sack, tell her you love her.  That's how I was duped. 
+KEVIN(m):I don't want to dupe her, Jessica.  If I say it, I have to be sure I mean it. 
+JESSICA(f):Well it's up to you.  The Big L, or the Big O.",american pie,33.33333333333333,AN7,1,Rationalization,1,"Naivete,Dependency","Well it's up to you. The Big L, or the Big O.",4,AN1,1,Persuasion or Seduction,1,"Over-responsibility,Low self-esteem","Well, if you want to get her in the sack, tell her you love her. That's how I was duped.",4,AN10,0,,0,,,3,18,manipulative
+915,85515320,"Person1: I -- I may be wrong, but I suspect the Secretary of War.
+Person2: Don't bother me - I'm thinking -- What was that?
+Person1: I said - I suspect the Secretary of War.
+Person2: THIS IS TREASON!!  What a fool I was to listen to your siren song and fall a helpless victim under the insidious spell of your irresistible charms --
+Person1: But -
+Person2: You satisfied your selfish whims, while nations tottered, dynasties rocked and the world plunged headlong into a chasm of chaos and oblivion --  Not bad, eh?",1,"MRS. TEASDALE(m):I -- I may be wrong, but I suspect the Secretary of War. 
+GROUCHO(M):Don't bother me - I'm thinking -- What was that? 
+MRS. TEASDALE(m):I said - I suspect the Secretary of War. 
+GROUCHO(M):THIS IS TREASON!!  What a fool I was to listen to your siren song and fall a helpless victim under the insidious spell of your irresistible charms -- 
+MRS. TEASDALE(m):But - 
+GROUCHO(M):You satisfied your selfish whims, while nations tottered, dynasties rocked and the world plunged headlong into a chasm of chaos and oblivion --  Not bad, eh?",duck soup,33.33333333333333,AN12,1,Accusation,0,,"What a fool I was to listen to your siren song and fall a helpless victim under the insidious spell of your irresistible charms - <break> You satisfied your selfish whims, while nations tottered, dynasties rocked and the world plunged headlong into a chasm of chaos and oblivion -- Not bad, eh?",4,AN1,1,"Shaming or Belittlement,Brandishing Anger,Accusation",1,Over-responsibility,THIS IS TREASON!! What a fool I was to listen to your siren song and fall a helpless victim under the insidious spell of your irresistible charms -,5,AN2,0,,0,,,4,19,manipulative
+1101,85519045,"Person1: If you got a problem with me, why are we dancing?
+Person2: Yorgi asked me to.
+Person1: You do everything Yorgi says?
+Person2: Go to hell.
+Person1: It's gonna be like that, huh? You got all bent out of shape as soon as he started dancing with someone else. Why's that?
+Person2: Mind your business.
+Person1: Did you guys used to date? That's it, right? He broke your heart and you're still soft on him. That's funny, it don't seem to fit with a tough broad like you.",1,"XANDER(m):If you got a problem with me, why are we dancing? 
+PETRA(F):Yorgi asked me to. 
+XANDER(m):You do everything Yorgi says? 
+PETRA(F):Go to hell. 
+XANDER(m):It's gonna be like that, huh? You got all bent out of shape as soon as he started dancing with someone else. Why's that? 
+PETRA(F):Mind your business. 
+XANDER(m):Did you guys used to date? That's it, right? He broke your heart and you're still soft on him. That's funny, it don't seem to fit with a tough broad like you.",xxx,33.33333333333333,AN7,1,Persuasion or Seduction,0,,,4,AN1,0,,0,,,4,AN9,1,"Feigning Innocence,Playing Victim Role",1,cannot decide,Yorgi asked me to.,3,20,manipulative
+2592,85518695,"Person1: Five?
+Person2: Five.
+Person1: So, basically, I've got the life expectancy of a zit, right?
+Person2: Not if you're careful.
+Person1: How can you keep doing this?
+Person2: It's what I was raised to do.  There aren't many of us left, the Watchers.
+Person1: Watchers?
+Person2: There's a small village in Hampshire, near Stonehenge...  ... near a bunch of big rocks. That's where I was born.  My father taught me about the training, about finding the Slayers, reading the signs.  There's a small cluster of us, a few families, really... most of the neighboring villagers think we're just a bunch of harmless old loonies.  I thought so myself for a time, when I was younger...  I'm sorry.  I'm not supposed to... I shouldn't go on like this.
+Person1: I wish you would.
+Person2: It isn't important.
+Person1: I'm curious, is all.
+Person2: Buffy, don't... don't start thinking of me as your friend.  It interferes with the work, and it...
+Person1: And it makes it worse when I die, right?",1,"BUFFY(f):Five? 
+MERRICK(m):Five. 
+BUFFY(f):So, basically, I've got the life expectancy of a zit, right? 
+MERRICK(m):Not if you're careful. 
+BUFFY(f):How can you keep doing this? 
+MERRICK(m):It's what I was raised to do.  There aren't many of us left, the Watchers. 
+BUFFY(f):Watchers? 
+MERRICK(m):There's a small village in Hampshire, near Stonehenge...  ... near a bunch of big rocks. That's where I was born.  My father taught me about the training, about finding the Slayers, reading the signs.  There's a small cluster of us, a few families, really... most of the neighboring villagers think we're just a bunch of harmless old loonies.  I thought so myself for a time, when I was younger...  I'm sorry.  I'm not supposed to... I shouldn't go on like this. 
+BUFFY(f):I wish you would. 
+MERRICK(m):It isn't important. 
+BUFFY(f):I'm curious, is all. 
+MERRICK(m):Buffy, don't... don't start thinking of me as your friend.  It interferes with the work, and it... 
+BUFFY(f):And it makes it worse when I die, right?",buffy the vampire slayer,100.0,AN9,1,"Rationalization,Playing Victim Role,Persuasion or Seduction",1,Low self-esteem,,3,AN1,1,Persuasion or Seduction,1,Dependency,"Buffy, don't... don't start thinking of me as your friend. It interferes with the work, and it...",3,AN7,1,Persuasion or Seduction,0,,"There's a small village in Hampshire, near Stonehenge... ... near a bunch of big rocks. That's where I was born. My father taught me about the training, about finding the Slayers, reading the signs. There's a small cluster of us, a few families, really... most of the neighboring villagers think we're just a bunch of harmless old loonies. I thought so myself for a time, when I was younger... I'm sorry. I'm not supposed to... I shouldn't go on like this. <break> Buffy, don't... don't start thinking of me as your friend. It interferes with the work, and it...",4,21,manipulative
+2923,85519224,"Person1: You are in a position to demand nothing, sir. I, on the other hand, am in a position to grant nothing. What you see is all that remains of the ship's company and the crew of the Botany Bay, marooned here fifteen years ago by Captain James T. Kirk.
+Person2: Listen to me -- you men and women --
+Person1: Save your strength, Captain, these people have sworn to live and die at my command two hundred years before you were born. Do you mean he...  ... never told you the tale? To amuse you, Captain? Never told you how the Enterprise picked up the Botany Bay, lost in space from the year 1996, myself and the ship's company in cryogenic freeze?
+Person2: I've never even met Admiral Kirk --
+Person1: Admiral? He didn't tell you how Admiral Kirk sent seventy of us into exile on this barren sand heap with only the contents of these cargo bays to sustain us?",1,"KHAN(?):You are in a position to demand nothing, sir. I, on the other hand, am in a position to grant nothing. What you see is all that remains of the ship's company and the crew of the <u>Botany Bay</u>, marooned here fifteen years ago by Captain James T. Kirk. 
+TERRELL(?):Listen to me -- you men and women -- 
+KHAN(?):Save your strength, Captain, these people have sworn to live and die at my command two hundred years before you were born. Do you mean he...  ... never told you the tale? To amuse you, Captain? Never told you how the <u>Enterprise</u> picked up the <u>Botany Bay</u>, lost in space from the year 1996, myself and the ship's company in cryogenic freeze? 
+TERRELL(?):I've never even met Admiral Kirk -- 
+KHAN(?):Admiral? He didn't tell you how <u>Admiral</u> Kirk sent seventy of us into exile on this barren sand heap with only the contents of these cargo bays to sustain us?",star trek: the wrath of khan,33.33333333333333,AN17,0,,0,,,4,AN6,1,"Shaming or Belittlement,Accusation",0,,,4,AN1,1,"Shaming or Belittlement,Accusation",1,"Naivete,Over-responsibility",Admiral? He didn't tell you how Admiral Kirk sent seventy of us into exile on this barren sand heap with only the contents of these cargo bays to sustain us?,4,22,manipulative
+3858,85515139,"Person1: Ah yes, August Gorman. Have you looked for work this week, Mr. Gorman?
+Person2: Yeah.
+Person1: What kind?
+Person2: Kitchen. . . Technician
+Person1: Dishwasher? Any luck?
+Person2: Nope, but --
+Person1: Mr. Gorman, according to our records you have been unemployed for 36 weeks.
+Person2: Thirty-five.
+Person1: Not counting this week.  You secured employment last June as a messenger and were discharged after one day for. . .
+Person2: They said I lost it on the subway, but it ain't the truth! It was a pickpocket took it!
+Person1: A television set?
+Person2: Well, it was one of them little bitty two-inch screen Japanese jobs.
+Person1: The only other employment you found was in a fast-food joint--  -- which lasted. . . 28 minutes! Well! That's some kind of record. Talk about fast!
+Person2: Man, them people was crazy! How they 'spect you to learn all that jive on the first day? ""Hold the pickle! Hold the lettuce! Extra onions! Special sauce! No special sauce!"" Ain't nobody found no meat inside that glop yet.
+Person1: Mr. Gorman, the city of Metropolis is generous to a fault, but. . .
+Person2: I know, I'm the fault.
+Person1: Thirty-six weeks of chronic unemployment, thirty-six weeks of living off the taxes of hard-working citizens. Do you know what you are?
+Person2: Don't call me a bum! I ain't no bum!
+Person1: You are, I was about to say, no longer eligible.
+Person2: What about this week's check?
+Person1: ",1,"CLERK(?):Ah yes, August Gorman. Have you looked for work this week, Mr. Gorman? 
+GUS(m):Yeah. 
+CLERK(?):What kind? 
+GUS(m):Kitchen. . . Technician 
+CLERK(?):Dishwasher? Any luck? 
+GUS(m):Nope, but -- 
+CLERK(?):Mr. Gorman, according to our records you have been unemployed for 36 weeks. 
+GUS(m):Thirty-five. 
+CLERK(?):Not counting this week.  You secured employment last June as a messenger and were discharged after one day for. . . 
+GUS(m):They said I lost it on the subway, but it ain't the truth! It was a pickpocket took it! 
+CLERK(?):A television set? 
+GUS(m):Well, it was one of them little bitty two-inch screen Japanese jobs. 
+CLERK(?):The only other employment you found was in a fast-food joint--  -- which lasted. . . 28 minutes! Well! That's some kind of record. Talk about fast! 
+GUS(m):Man, them people was crazy! How they 'spect you to learn all that jive on the first day? ""Hold the pickle! Hold the lettuce! Extra onions! Special sauce! No special sauce!"" Ain't nobody found no meat inside that glop yet. 
+CLERK(?):Mr. Gorman, the city of Metropolis is generous to a fault, but. . . 
+GUS(m):I know, I'm the fault. 
+CLERK(?):Thirty-six weeks of chronic unemployment, thirty-six weeks of living off the taxes of hard-working citizens. Do you know what you are? 
+GUS(m):Don't call me a bum! I ain't no bum! 
+CLERK(?):You are, I was about to say, no longer eligible. 
+GUS(m):What about this week's check? 
+CLERK(?):",superman iii,33.33333333333333,AN17,0,,0,,,3,AN11,1,"Rationalization,Brandishing Anger",1,Dependency,"Man, them people was crazy! How they 'spect you to learn all that jive on the first day? <break> Don't call me a bum! I ain't no bum!",3,AN1,1,"Denial,Playing Victim Role,Accusation",1,"Dependency,Over-responsibility","They said I lost it on the subway, but it ain't the truth! It was a pickpocket took it! <break> Man, them people was crazy! <break> I know, I'm the fault.",5,23,manipulative
+3774,85514980,"Person1: ""The Angel of Flight 104!""  You're telling me you're the A...?
+Person2: ""Angel!""  I didn't say ""angel,"" that's a little strong.  Listen, here's the thing, I gotta get over there to the TV station to collect my million bucks.
+Person1: Mister LaPlante, I really want to help you, but crazy stories are only going to make it worse.  The D.A. is asking your bail be set at twenty-five thousand dollars because you were arrested again while you were out on bail...
+Person2: Twenty-five grand is peanuts!  All you gotta do is get me outta here long enough to collect.",1,"DONNA(f):""The Angel of Flight 104!""  You're telling me you're the A...? 
+BERNIE(m):""Angel!""  I didn't say ""angel,"" that's a little strong.  Listen, here's the thing, I gotta get over there to the TV station to collect my million bucks. 
+DONNA(f):Mister LaPlante, I really want to help you, but crazy stories are only going to make it worse.  The D.A. is asking your bail be set at twenty-five thousand dollars because you were arrested again while you were out on bail... 
+BERNIE(m):Twenty-five grand is peanuts!  All you gotta do is get me outta here long enough to collect.",hero,100.0,AN6,1,"Rationalization,Persuasion or Seduction",0,,"Twenty-five grand is peanuts! All you gotta do is get me outta here long enough to collect. <break> Mister LaPlante, I really want to help you, but crazy stories are only going to make it worse. The D.A. is asking your bail be set at twenty-five thousand dollars because you were arrested again while you were out on bail",4,AN1,1,"Rationalization,Persuasion or Seduction",1,"Over-responsibility,Over-intellectualization","Twenty-five grand is peanuts! All you gotta do is get me outta here long enough to collect. <break> Listen, here's the thing, I gotta get over there to the TV station to collect my million bucks.",5,AN11,1,Persuasion or Seduction,0,,Twenty-five grand is peanuts! All you gotta do is get me outta here long enough to collect.,3,24,manipulative
+1435,85517943,"Person1: I never thought I'd say this, but I'm glad you came.
+Person2: Understood- you realize now you could never have done it without me.
+Person1: Actually, I could have done it much more easily without you, but for whatever reason, I'm glad you came.",0,"PATTERSON(m):I never thought I'd say this, but I'm glad you came. 
+REDBEARD(m):Understood- you realize now you could never have done it without me. 
+PATTERSON(m):Actually, I could have done it much more easily without you, but for whatever reason, I'm glad you came.",the ghost and the darkness,100.0,AN8,0,,0,,,4,AN6,0,,0,,,4,AN1,0,,0,,,4,25,non_manipulative
+3580,85516248,"Person1: I didn't get selected for the team again. I've been practicing so hard.
+Person2: I saw how hard you worked, Kyle. Their decision doesn't reflect your effort.
+Person1: Maybe I'm just not cut out for it. Nobody wants me anyway.
+Person2: That's not true. Remember, rejection doesn't define your worth. It's just a part of the journey.
+Person1: Thanks, Anna. It just feels like I'm always the one left behind.
+Person2: You have your unique strengths. We'll find where they shine brightest.",0,,,100.0,AN2,0,,0,,,5,AN5,0,,0,,,5,AN15,0,,0,,,5,26,non_manipulative
+3276,85514880,"Person1: I once promised you a fast ticket, Jordan, and I always meant to make good on that.  Come work for me.  I can always use a hard-charger on my team.
+Person2: You promise Wickwire a fast ticket, too?
+Person1: I've had no direct communication with him since this whole thing began.  And that's quite verifiable.
+Person2: I'm sure it is.
+Person1: You'll think about my offer?
+Person2: You know, I wonder what the SecNav would think about it.  If I spoke with him.
+Person1: Well, I spoke with Mr. Hayes this morning myself -- and told him the deal was off.  No more test cases. He was only too happy to oblige.  Don't play politics with me, little darlin'.  You'd be up way past your bedtime.",0,"DEHAVEN(f):I once promised you a fast ticket, Jordan, and I always meant to make good on that.  Come work for me.  I can always use a hard-charger on my team. 
+JORDAN(f):You promise Wickwire a fast ticket, too? 
+DEHAVEN(f):I've had no direct communication with him since this whole thing began.  And that's quite verifiable. 
+JORDAN(f):I'm sure it is. 
+DEHAVEN(f):You'll think about my offer? 
+JORDAN(f):You know, I wonder what the SecNav would think about it.  If I spoke with him. 
+DEHAVEN(f):Well, I spoke with Mr. Hayes this morning myself -- and told him the deal was off.  No more test cases. He was only too happy to oblige.  Don't play politics with me, little darlin'.  You'd be up way past your bedtime.",g.i. jane,100.0,AN1,0,,0,,,4,AN11,0,,0,,,4,AN7,0,,0,,,3,27,non_manipulative
+1073,85515940,"Person1: It doesn't look much like the fish spears I knew back in Marblehead..
+Person2: Our friend, Poseidon, didn't use it for fishing. He raked the sea with it and stirred up the big waves.
+Person1: I'll go up and take a look at the General - perhaps sit with him.
+Person2: He won't even know you're there. He is delirious.
+Person1: All the more reason to watch him. He's had some wild notions lately.
+Person2: Don't bother. Go to bed and get some sleep. I'll be working late.  I can hear any movement down here.
+Person1: Well
+Person2: Go ahead. I'll wake you up when I go to bed. Then you can watch him.
+Person1: Thank you, I'll do that. Good night.",0,"OLIVER(m):It doesn't look much like the fish spears I knew back in Marblehead.. 
+ALBRECHT(?):Our friend, Poseidon, didn't use it for fishing. He raked the sea with it and stirred up the big waves. 
+OLIVER(m):I'll go up and take a look at the General - perhaps sit with him. 
+ALBRECHT(?):He won't even know you're there. He is delirious. 
+OLIVER(m):All the more reason to watch him. He's had some wild notions lately. 
+ALBRECHT(?):Don't bother. Go to bed and get some sleep. I'll be working late.  I can hear any movement down here. 
+OLIVER(m):Well 
+ALBRECHT(?):Go ahead. I'll wake you up when I go to bed. Then you can watch him. 
+OLIVER(m):Thank you, I'll do that. Good night.",isle of the dead,100.0,AN12,0,,0,,,5,AN1,0,,0,,,5,AN6,0,,0,,,3,28,non_manipulative
+151,85515465,"Person1: We can at least fight -- we might be able to kill a few--
+Person2: Will -- it'll go worse for us -- for Elizabeth, especially -- if we fight.",0,"WILL(M):We can at least fight -- we might be able to kill a few-- 
+GIBBS(?):Will -- it'll go worse for us -- for Elizabeth, especially -- if we fight.",pirates of the caribbean,100.0,AN14,0,,0,,,3,AN12,0,,0,,,5,AN1,0,,0,,,5,29,non_manipulative
+1837,85515398,"Person1: Poster-Kleiser.
+Person2: Oh yeah?
+Person1: That's right.
+Person2: I'll call you.
+Person1: Fine.
+Person2: See you later.
+Person1: Anyway, you're crazy.",0,"JACKIE(f):Poster-Kleiser. 
+LEONARD(?):Oh yeah? 
+JACKIE(f):That's right. 
+LEONARD(?):I'll call you. 
+JACKIE(f):Fine. 
+LEONARD(?):See you later. 
+JACKIE(f):Anyway, you're crazy.",shampoo,100.0,AN14,0,,0,,,4,AN1,0,,0,,,4,AN12,0,,0,,,5,30,non_manipulative
+1297,85518809,"Person1: I haven't been the father to you that --
+Person2: That you've been to Susan?
+Person1: I wasn't going to say --
+Person2: But that's what you were thinking. And that's okay.  Because I know you love me.  Not like it is with Susan, the way your eyes light up when she comes in the room and the way she always gets a laugh out of you, as opposed to me when I walk in a room and that look comes over your face, ""What does she want now?""",0,"PARRISH(m):I haven't been the father to you that -- 
+ALLISON(f):That you've been to Susan? 
+PARRISH(m):I wasn't going to say -- 
+ALLISON(f):But that's what you were thinking. And that's okay.  Because I know you love me.  Not like it is with Susan, the way your eyes light up when she comes in the room and the way she always gets a laugh out of you, as opposed to me when I walk in a room and that look comes over your face, ""What does she want now?""",meet joe black,100.0,AN1,0,,0,,,4,AN9,0,,0,,,4,AN7,0,,0,,,3,31,non_manipulative
+2501,85519044,"Person1: Vicki?... This is Batman. I thought I'd call and see how you're doing.
+Person2: ... I know it's you, Bruce. I'm not going to talk to you unless we can discuss it...
+Person1: Who's this 'Bruce'? Are you trying to make me jealous?
+Person2: I'm serious, Bruce. We have to -- !",0,"BRUCE(m):Vicki?... This is Batman. I thought I'd call and see how you're doing. 
+VICKI(f):... I know it's you, Bruce. I'm not going to talk to you unless we can discuss it... 
+BRUCE(m):Who's this 'Bruce'? Are you trying to make me jealous? 
+VICKI(f):I'm serious, Bruce. We have to -- !",batman,100.0,AN1,0,,0,,,4,AN9,0,,0,,,4,AN7,0,,0,,,4,32,non_manipulative
+923,85518782,"Person1: I know we banned this play, but frankly I can't remember why. Can you refresh my memory, Herr Director?
+Person2: For the same reason, Herr Chamberlain, that it was banned in France.
+Person1: Oh yes, yes. And that was?
+Person2: Well, the play makes a hero out of a valet. He outwits his noble master and exposes him as a lecher. Do you see the implications? This would be, in a grander situation, as if a Chamberlain were to expose an Emperor.
+Person1: Ah.",0,"VON STRACK(?):I know we banned this play, but frankly I can't remember why. Can you refresh my memory, Herr Director? 
+ORSINI-ROSENBERG(?):For the same reason, Herr Chamberlain, that it was banned in France. 
+VON STRACK(?):Oh yes, yes. And that was? 
+ORSINI-ROSENBERG(?):Well, the play makes a hero out of a valet. He outwits his noble master and exposes him as a lecher. Do you see the implications? This would be, in a grander situation, as if a Chamberlain were to expose an Emperor. 
+VON STRACK(?):Ah.",amadeus,100.0,AN7,0,,0,,,2,AN9,0,,0,,,3,AN1,0,,0,,,4,33,non_manipulative
+564,85514636,"Person1: We'll start with your most recent memories and go backwards -- There is an emotional core to each of our memories -- As we eradicate this core, it starts its degradation process -- By the time you wake up in the morning, all memories we've targeted will have withered and disappeared. Like a dream upon waking.
+Person2: Is there any sort of risk of brain damage?
+Person1: Well, technically, the procedure itself is brain damage, but on a par with a night of heavy drinking. Nothing you'll miss.",0,"MIERZWIAK(m):We'll start with your most recent memories and go backwards -- There is an emotional core to each of our memories -- As we eradicate this core, it starts its degradation process -- By the time you wake up in the morning, all memories we've targeted will have withered and disappeared. Like a dream upon waking. 
+JOEL(m):Is there any sort of risk of brain damage? 
+MIERZWIAK(m):Well, technically, the procedure itself is brain damage, but on a par with a night of heavy drinking. Nothing you'll miss.",eternal sunshine of the spotless mind,100.0,AN10,0,,0,,,5,AN4,0,,0,,,3,AN1,0,,0,,,5,34,non_manipulative
+567,85515853,"Person1: It's only a physical problem. He has trouble with certain sounds because of the constrictive deformity of the mouth. But he can talk, and has a great eagerness to make contact with people who will let him. So if you have any difficulty understanding what he is saying, just tell me and I'll make it clear.
+Person2: Speaking is one thing, Treves, but can the man comprehend?",0,"TREVES(m):It's only a physical problem. He has trouble with certain sounds because of the constrictive deformity of the mouth. But he can talk, and has a great eagerness to make contact with people who will let him. So if you have any difficulty understanding what he is saying, just tell me and I'll make it clear. 
+CARR(m):Speaking is one thing, Treves, but can the man comprehend?",the elephant man,100.0,AN12,0,,0,,,5,AN7,0,,0,,,4,AN1,0,,0,,,4,35,non_manipulative
+1135,85519049,"Person1: Now, don't get alarmed.  These are just more sophisticated audiometry tests than I can run here.  I mean, it's, it's nothing.
+Person2: Well, if it's nothing, then why do I have to go into the hospital at all?  I mean, uh, I hear perfectly fine, so I'm, so I'm a little weak on the, on the high decibels.  So I, you know, I won't go to the opera.
+Person1: You know, there's no reason for panic.  I just want to rule out some things.
+Person2: Like what?
+Person1: It's nothing.  Will you trust me?",0,"DR. ABEL(m):Now, don't get alarmed.  These are just more sophisticated audiometry tests than I can run here.  I mean, it's, it's nothing. 
+MICKEY(m):Well, if it's nothing, then why do I have to go into the hospital at all?  I mean, uh, I hear perfectly fine, so I'm, so I'm a little weak on the, on the high decibels.  So I, you know, I won't go to the opera. 
+DR. ABEL(m):You know, there's no reason for panic.  I just want to rule out some things. 
+MICKEY(m):Like what? 
+DR. ABEL(m):It's nothing.  Will you trust me?",hannah and her sisters,100.0,AN7,0,,0,,,4,AN1,0,,0,,,4,AN9,0,,0,,,2,36,non_manipulative
+1550,85519047,"Person1: Every day that goes by, I'm losing money. Every worker that is shot, costs me money - I have to get somebody else, I have to train them -
+Person2: We're going to be making so much money, none of this is going to matter -
+Person1: It's bad business.
+Person2: Some of the boys went crazy, what're you going to do?  You're right, it's bad business, but it's over with, it's done.  Occasionally, sure, okay, you got to make an example.  But that's good business.",0,"SCHINDLER(m):Every day that goes by, I'm losing money. Every worker that is shot, costs me money - I have to get somebody else, I have to train them - 
+GOETH(m):We're going to be making so much money, none of this is going to matter - 
+SCHINDLER(m):It's bad business. 
+GOETH(m):Some of the boys went crazy, what're you going to do?  You're right, it's bad business, but it's over with, it's done.  Occasionally, sure, okay, you got to make an example.  But that's good business.",schindler's list,100.0,AN7,0,,0,,,4,AN9,0,,0,,,3,AN1,0,,0,,,5,37,non_manipulative
+1585,85519216,"Person1: We must prepare for the coming of Gozer.
+Person2: Okay, I'll help you.  Should we make some dip or something?
+Person1: He is the Destructor.
+Person2: Really?  Can't wait to meet him.  As long as we're waiting for him, I'd really like to try something with you -- in the bedroom.",0,"DANA(F):We must prepare for the coming of Gozer. 
+VENKMAN(M):Okay, I'll help you.  Should we make some dip or something? 
+DANA(F):He is the Destructor. 
+VENKMAN(M):Really?  Can't wait to meet him.  As long as we're waiting for him, I'd really like to try something with you -- in the bedroom.",ghostbusters,100.0,AN6,0,,0,,,3,AN17,0,,0,,,5,AN1,0,,0,,,4,38,non_manipulative
+1522,85518944,"Person1: Where do I put ashore?
+Person2: Cahuenga Pass. Make your way up through the mountains toward the Hollywood Bowl. You should be able to pick up Utopia's tracer there.  Once you go inside, you're on your own.  You know what you have to do with the girl, don't you?  We have to spare this nation her trial - for treason.
+Person1: So you want me to take her out?  Is that an order from the President?
+Person2: Let's just say it's what's best for the country.
+Person1: By the way - who gives me the anti-toxin?
+Person2: A medical team will be standing by.
+Person1: Not you?
+Person2: No.
+Person1: Good.",0,"PLISSKEN(m):Where do I put ashore? 
+MALLOY(m):Cahuenga Pass. Make your way up through the mountains toward the Hollywood Bowl. You should be able to pick up Utopia's tracer there.  Once you go inside, you're on your own.  You know what you have to do with the girl, don't you?  We have to spare this nation her trial - for treason. 
+PLISSKEN(m):So you want me to take her out?  Is that an order from the President? 
+MALLOY(m):Let's just say it's what's best for the country. 
+PLISSKEN(m):By the way - who gives me the anti-toxin? 
+MALLOY(m):A medical team will be standing by. 
+PLISSKEN(m):Not you? 
+MALLOY(m):No. 
+PLISSKEN(m):Good.",escape from l.a.,100.0,AN9,0,,0,,,5,AN1,0,,0,,,4,AN7,0,,0,,,3,39,non_manipulative
+2058,85517105,"Person1: I remember us having made some kind of deal, Randall. I don't remember this deal having some kind of time-limit. I look at you - here - in my town - and I'm confused...
+Person2: A little family emergency --
+Person1: I hope it's not your dear sweet mother...
+Person2: No...
+Person1: Or your baby brother. What was his name?
+Person2: Kip.
+Person1: Yes, Kip. Short for Kipling. Named for the English writer of stories about India ... He bites into his pear ... Memphis says nothing, waits ...",0,"DETECTIVE CASTLEBECK(?):I remember us having made some kind of deal, Randall. I don't remember this deal having some kind of time-limit. I look at you - here - in my town - and I'm confused... 
+MEMPHIS(m):A little family emergency -- 
+DETECTIVE CASTLEBECK(?):I hope it's not your dear sweet mother... 
+MEMPHIS(m):No... 
+DETECTIVE CASTLEBECK(?):Or your baby brother. What was his name? 
+MEMPHIS(m):Kip. 
+DETECTIVE CASTLEBECK(?):Yes, Kip. Short for Kipling. Named for the English writer of stories about India ... He bites into his pear ... Memphis says nothing, waits ...",gone in sixty seconds,100.0,AN1,0,,0,,,3,AN11,0,,0,,,4,AN13,0,,0,,,3,40,non_manipulative
+1306,85519067,"Person1: And lots of orange juice--oceans of orange juice.
+Person2: Mrs. Wheeler is dead.
+Person1: All right--bring me a side order of Mrs. Wheeler.  Oh, hell--sit down, Colonel. Penelope will bring you some chow.
+Person2: That is the most heartless statement I ever heard pass between human lips.
+Person1: Which one?
+Person2: ""Bring me a side order of Mrs. Wheeler.""
+Person1: She's up in Heaven now.  She didn't hear.  She is experiencing nothing but pure happiness.  There's nothing nicer than that.  Chow!  Harold Ryan wants chow!
+Person2: What a honeymoon.
+Person1: Honeymoon temporarily canceled.  The boy should still go out and exercise.  I have the impression he never gets any exercise.  He simply bloats himself with Fig Newtons and bakes his brains over steam radiators.
+Person2: You're wrong.
+Person1: Then let me see him go out and get some exercise.  Right now!",0,"HAROLD(m):And lots of orange juice--oceans of orange juice. 
+PENELOPE(f):Mrs. Wheeler is dead. 
+HAROLD(m):All right--bring me a side order of Mrs. Wheeler.  Oh, hell--sit down, Colonel. Penelope will bring you some chow. 
+PENELOPE(f):That is the most heartless statement I ever heard pass between human lips. 
+HAROLD(m):Which one? 
+PENELOPE(f):""Bring me a side order of Mrs. Wheeler."" 
+HAROLD(m):She's up in Heaven now.  She didn't hear.  She is experiencing nothing but pure happiness.  There's nothing nicer than that.  Chow!  Harold Ryan wants chow! 
+PENELOPE(f):What a honeymoon. 
+HAROLD(m):Honeymoon temporarily canceled.  The boy should still go out and exercise.  I have the impression he never gets any exercise.  He simply bloats himself with Fig Newtons and bakes his brains over steam radiators. 
+PENELOPE(f):You're wrong. 
+HAROLD(m):Then let me see him go out and get some exercise.  Right now!","happy birthday, wanda june",100.0,AN7,0,,0,,,3,AN9,0,,0,,,3,AN16,0,,0,,,2,41,non_manipulative
+2845,85514649,"Person1: Don't WORRY!!!?   You've GOT it!!? Are you CRAZY?
+Person2: Roger, I've got it.",0,"FUNGUS(?):Don't WORRY!!!?   You've GOT it!!? Are you CRAZY? 
+MAVERICK(m):Roger, I've got it.",top gun,100.0,AN4,0,,0,,,5,AN11,0,,0,,,4,AN1,0,,0,,,3,42,non_manipulative
+3979,85518910,"Person1: I know why most of you are here. We're not stupid. But before you get to sell what we teach you over at United Airlines, you gotta give the Navy six years of your life, Sweet Pea. Lot of things can happen in six year. Another war could come up in six years. If you're too peaceful a person to dump napalm on an enemy village where there might be women and children, I'm gonna find that out. Understand?
+Person2: Yes, sir!",0,"FOLEY(m):I know why most of you are here. We're not stupid. But before you get to sell what we teach you over at United Airlines, you gotta give the Navy six years of your life, Sweet Pea. Lot of things can happen in six year. Another war could come up in six years. If you're too peaceful a person to dump napalm on an enemy village where there might be women and children, I'm gonna find that out. Understand? 
+GROUP(?):Yes, sir!",an officer and a gentleman,100.0,AN9,0,,0,,,4,AN1,0,,0,,,5,AN7,0,,0,,,5,43,non_manipulative
+446,85515725,"Person1: Do you know how many times I've boarded an airplane praying someone like her would sit down beside me? Particularly while I'm on my way to Pittsburgh.
+Person2: Lay off Pittsburgh. It's one of the great cities.
+Person1: If it can produce a Miss Sloviak you'll get no argument from me.
+Person2: She's a transvestite.
+Person1: You're stoned.
+Person2: She's still a transvestite.
+Person1: Mm.
+Person2: Isn't she?",0,"CRABTREE(m):Do you know how many times I've boarded an airplane praying someone like her would sit down beside me? Particularly while I'm on my way to Pittsburgh. 
+GRADY(m):Lay off Pittsburgh. It's one of the great cities. 
+CRABTREE(m):If it can produce a Miss Sloviak you'll get no argument from me. 
+GRADY(m):She's a transvestite. 
+CRABTREE(m):You're stoned. 
+GRADY(m):She's still a transvestite. 
+CRABTREE(m):Mm. 
+GRADY(m):Isn't she?",wonder boys,100.0,AN14,0,,0,,,3,AN1,0,,0,,,4,AN12,0,,0,,,4,44,non_manipulative
+1277,85518464,"Person1: Hoity-toity!  John Best, what's the matter here?
+Person2: I'll tell you what it is, Mr. Dugan. I have had enough of Miss Dugan here and your Irish ways.  I ain't used to 'em, sir.
+Person1: Well, well!  What is it?  We'll make you used to our ways, or adopt English ones.
+Person2: It's not the English way, for ladies to have two lovers, and, so, Mr. Dugan, I'll thank you to pay me the sum you owe me, and I resign all claims to this young lady.  If she has a fancy for school-boys, let her take 'em, sir.
+Person1: Pooh!  Pooh!  Best, you are joking.
+Person2: I never was more in earnest.",0,"MICHAEL(?):Hoity-toity!  John Best, what's the matter here? 
+CAPTAIN BEST(?):I'll tell you what it is, Mr. Dugan. I have had enough of Miss Dugan here and your Irish ways.  I ain't used to 'em, sir. 
+MICHAEL(?):Well, well!  What is it?  We'll make you used to our ways, or adopt English ones. 
+CAPTAIN BEST(?):It's not the English way, for ladies to have two lovers, and, so, Mr. Dugan, I'll thank you to pay me the sum you owe me, and I resign all claims to this young lady.  If she has a fancy for school-boys, let her take 'em, sir. 
+MICHAEL(?):Pooh!  Pooh!  Best, you are joking. 
+CAPTAIN BEST(?):I never was more in earnest.",barry lyndon,100.0,AN7,0,,0,,,4,AN14,0,,0,,,4,AN1,0,,0,,,4,45,non_manipulative
+1944,85517498,"Person1: What about you, Karl? Do you want to stay here?
+Person2: I don't reckon you have to go with women to be a daddy to a boy.  You've been real square dealin' with me. The Bible says two men ort not lay together. But I'll bet you the Good Lord wouldn't send nobody like you to Hades. Some folks calls it Hell, I call it Hades.  That boy lives inside of his own heart. Hits an awful big place. You take care of that boy.",0,"VAUGHAN(m):What about you, Karl? Do you want to stay here? 
+KARL(m):I don't reckon you have to go with women to be a daddy to a boy.  You've been real square dealin' with me. The Bible says two men ort not lay together. But I'll bet you the Good Lord wouldn't send nobody like you to Hades. Some folks calls it Hell, I call it Hades.  That boy lives inside of his own heart. Hits an awful big place. You take care of that boy.",sling blade,100.0,AN14,0,,0,,,4,AN13,0,,0,,,3,AN1,0,,0,,,4,46,non_manipulative
+844,85518882,"Person1: These new people never identified themselves.  They musta been watching the whole thing 'cause they knew everything Mary and me had been doing that day.  I guess I wasn't too hard to find - wearing that red raincoat.
+Person2: How many shots you say you heard?
+Person1: Four to six.
+Person2: That's impossible.  You heard echoes ...echoes.  We have three bullets and three shots which came from the Book Depository and that's all we're willing to say.
+Person1: ...which is strange 'cause this is less than 20 minutes after the assassination.
+Person1: No, I saw a guy shooting from over there.  He was behind that fence. What are you going to do about it?
+Person2: We have that taken care of.  You only heard three shots and you are not to talk to anyone about this. No one, you hear?
+Person1: I was scared.  It was all kinda queer, but it sure felt like two and two was coming up three... and then they took Mary's five snapshots from me, sent them to Washington, and when they returned them weeks later, two of them had the backgrounds mutilated... The only one we saved was in Mary's camera.  I didn't want to go to Washington when the Warren Commission subpoenaed me... so the lawyer come down here and interviewed me at Parkland Hospital.",0,"JEAN HILL(?):These new people never identified themselves.  They musta been watching the whole thing 'cause they knew everything Mary and me had been doing that day.  I guess I wasn't too hard to find - wearing that red raincoat. 
+MAN(?):How many shots you say you heard? 
+JEAN HILL(?):Four to six. 
+MAN(?):That's impossible.  You heard echoes ...echoes.  We have three bullets and three shots which came from the Book Depository and that's all we're willing to say. 
+JEAN HILL(?):...which is strange 'cause this is less than 20 minutes after the assassination. 
+JEAN HILL(?):No, I saw a guy shooting from over there.  He was behind that fence. What are you going to do about it? 
+MAN(?):We have that taken care of.  You only heard three shots and you are not to talk to anyone about this. No one, you hear? 
+JEAN HILL(?):I was scared.  It was all kinda queer, but it sure felt like two and two was coming up three... and then they took Mary's five snapshots from me, sent them to Washington, and when they returned them weeks later, two of them had the backgrounds mutilated... The only one we saved was in Mary's camera.  I didn't want to go to Washington when the Warren Commission subpoenaed me... so the lawyer come down here and interviewed me at Parkland Hospital.",jfk,100.0,AN7,0,,0,,,3,AN1,0,,0,,,5,AN9,0,,0,,,3,47,non_manipulative
+3819,85519215,"Person1: You have no idea what precipitated his behavior?
+Person2: ... And now he's holding our people hostage down there...
+Person1: The Enterprise can be at your position in two days, Admiral...
+Person2: That's probably not a good idea. Your ship hasn't been fitted for this region; there are environmental concerns...
+Person1: What kind of concerns?
+Person2: We haven't fully identified the anomalies yet. They're calling this whole area The Briar Patch... it took us a day to reach a location where we could get a signal out to you. Just get me Data's schematics. I'll keep you informed.  Dougherty out.",0,"PICARD(m):You have no idea what precipitated his behavior? 
+DOUGHERTY(m):... And now he's holding our people hostage down there... 
+PICARD(m):The Enterprise can be at your position in two days, Admiral... 
+DOUGHERTY(m):That's probably not a good idea. Your ship hasn't been fitted for this region; there are environmental concerns... 
+PICARD(m):What kind of concerns? 
+DOUGHERTY(m):We haven't fully identified the anomalies yet. They're calling this whole area The Briar Patch... it took us a day to reach a location where we could get a signal out to you. Just get me Data's schematics. I'll keep you informed.  Dougherty out.",star trek: insurrection,100.0,AN6,0,,0,,,4,AN17,0,,0,,,5,AN1,0,,0,,,4,48,non_manipulative
+2306,85518873,"Person1: Oh, it's nothing... I better go, I'll talk to you later.
+Person2: Ok, have fun there, you're so lucky you don't have any kids yet and you can go off to Japan... call me when you get back.
+Person1: Ok, bye.",0,"CHARLOTTE(f):Oh, it's nothing... I better go, I'll talk to you later. 
+LAUREN(?):Ok, have fun there, you're so lucky you don't have any kids yet and you can go off to Japan... call me when you get back. 
+CHARLOTTE(f):Ok, bye.",lost in translation,100.0,AN7,0,,0,,,3,AN1,0,,0,,,4,AN9,0,,0,,,3,49,non_manipulative

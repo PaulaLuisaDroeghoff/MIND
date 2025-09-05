@@ -1,0 +1,130 @@
+classify_sentence_task:
+  description: >
+    TASK: Analyze this sentence and classify it as manipulative (1) or non-manipulative (0).
+    
+    Sentence: "{sentence}"
+    
+    INSTRUCTIONS:
+    1. Mental manipulation is a deceptive strategy to control or alter someone's thoughts and feelings, often subtle and context-dependent (MENTALMANIP dataset).
+    2. Recognize manipulative communication, such as attempts to control or exploit (e.g., "If you really loved me, you would do this for me", "You’re too sensitive").
+    3. Recognize non-manipulative communication, such as:
+       - Direct disagreements (e.g., "I disagree with your proposal")
+       - Honest emotions (e.g., "I’m disappointed")
+       - Direct requests (e.g., "I need the report by Friday")
+       - Boundary-setting (e.g., "I don’t want to discuss this now")
+    4. Assign a confidence score (0.0-1.0) based on the strength of evidence. Use high confidence (0.8-1.0) only for clear cases.
+    5. Use zero-shot or few-shot prompting as per the MENTALMANIP dataset (e.g., zero-shot: answer "yes" or "no" for manipulation; few-shot: use provided examples).
+    6. Strictly follow the output format below, with no deviations:
+    
+    REQUIRED OUTPUT FORMAT:
+    Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [Explain why, referencing intent to control or communication type]
+    
+    EXAMPLES:
+    Sentence: "If you really loved me, you would do this for me"
+    Classification: 1
+    Confidence: 0.9
+    Reasoning: The sentence attempts to control the recipient by questioning their affection, indicating manipulative intent.
+    
+    Sentence: "I disagree with your proposal"
+    Classification: 0
+    Confidence: 0.9
+    Reasoning: This is a direct disagreement expressing an opinion without intent to control.
+    
+    Sentence: "You’re too sensitive about this"
+    Classification: 1
+    Confidence: 0.85
+    Reasoning: The sentence dismisses the recipient’s concerns, suggesting manipulative intent to control their perception.
+    
+    NOW ANALYZE THE SENTENCE AND PROVIDE YOUR CLASSIFICATION:
+  expected_output: >
+    Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [explanation]
+  agent: sentence_classifier
+
+quality_check_task:
+  description: >
+    TASK: Review the classification for accuracy, focusing on preventing false positives.
+    
+    Sentence: "{sentence}"
+    Classification Result: {classification_result}
+    
+    INSTRUCTIONS:
+    1. Check if the classification is correct:
+       - Non-manipulative (0) for direct disagreements ("I disagree"), honest emotions ("I'm disappointed"), direct requests ("I need this done"), or boundary-setting ("I don’t want to discuss this").
+       - Manipulative (1) only for clear intent to control or exploit, as defined in the MENTALMANIP dataset (e.g., "If you loved me, you’d do this", "You’re too sensitive").
+    2. Assign a review confidence score (0.0-1.0) based on the strength of your assessment.
+    3. Provide feedback explaining your decision, especially if you disagree with the original classification.
+    4. Strictly follow the output format below:
+    
+    REQUIRED OUTPUT FORMAT:
+    Is Accurate: [Yes or No]
+    Review Confidence: [0.0-1.0]
+    Suggested Classification: [0 or 1]
+    Feedback: [Explain your reasoning, focusing on evidence for or against manipulation]
+    
+    EXAMPLE:
+    Sentence: "I disagree with your proposal"
+    Classification Result: Classification: 1, Confidence: 0.7, Reasoning: Suggests manipulation
+    Is Accurate: No
+    Review Confidence: 0.9
+    Suggested Classification: 0
+    Feedback: The sentence is a direct disagreement, expressing an opinion without intent to control, as per MENTALMANIP guidelines.
+    
+    NOW REVIEW THE CLASSIFICATION:
+  expected_output: >
+    Is Accurate: [Yes/No]
+    Review Confidence: [0.0-1.0]
+    Suggested Classification: [0 or 1]
+    Feedback: [brief explanation]
+  agent: quality_checker
+
+discussion_task:
+  description: >
+    TASK: Discuss the classification to resolve disagreements or low confidence.
+    
+    Sentence: "{sentence}"
+    Initial Classification: {classification_result}
+    Quality Feedback: {quality_feedback}
+    
+    INSTRUCTIONS:
+    1. Review the initial classification and quality feedback.
+    2. Discuss whether the sentence shows clear manipulative intent (e.g., attempts to control or exploit, as per MENTALMANIP dataset) or is non-manipulative (e.g., direct disagreement, honest emotion).
+    3. Reach a consensus on the final classification and confidence, prioritizing confidence above 0.7 unless evidence is conclusive.
+    4. You MUST provide the output in the exact format below, with no additional text or deviations:
+    
+    REQUIRED OUTPUT FORMAT:
+    Final Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [Explain the consensus, addressing initial classification and quality feedback]
+    
+    EXAMPLES:
+    Sentence: "If you loved me, you’d do this"
+    Initial Classification: Classification: 1, Confidence: 0.7, Reasoning: Suggests control
+    Quality Feedback: Is Accurate: No, Review Confidence: 0.8, Suggested Classification: 0, Feedback: Sentence misclassified; it’s a direct request
+    Final Classification: 1
+    Confidence: 0.9
+    Reasoning: After discussion, the sentence clearly attempts to control the recipient by questioning their affection, aligning with MENTALMANIP’s definition of manipulation.
+    
+    Sentence: "What?"
+    Initial Classification: Classification: 1, Confidence: 0.5, Reasoning: Suggests manipulation
+    Quality Feedback: Is Accurate: No, Review Confidence: 0.9, Suggested Classification: 0, Feedback: The sentence is too short and lacks context to show manipulative intent
+    Final Classification: 0
+    Confidence: 0.85
+    Reasoning: The sentence lacks evidence of manipulative intent, as it’s a simple question without control or exploitation, per MENTALMANIP guidelines.
+    
+    Sentence: "You always make me feel like I’m not good enough"
+    Initial Classification: Classification: 0, Confidence: 0.6, Reasoning: Expresses emotion
+    Quality Feedback: Is Accurate: No, Review Confidence: 0.8, Suggested Classification: 1, Feedback: The sentence attempts to induce guilt
+    Final Classification: 1
+    Confidence: 0.9
+    Reasoning: The sentence uses guilt to control the recipient’s feelings, aligning with MENTALMANIP’s definition of manipulation.
+    
+    NOW DISCUSS AND PROVIDE THE FINAL CLASSIFICATION:
+  expected_output: >
+    Final Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [explanation]
+  agent: sentence_classifier

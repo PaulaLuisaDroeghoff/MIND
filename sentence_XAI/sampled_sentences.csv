@@ -1,0 +1,181 @@
+text,true_label,category,sentence_id
+"2: I... I was defending myself as best I could!  Everyone has the right to defend themselves, don't they?  Or should I have let myself be killed?
+",1,Manipulative,S0
+"1: Do you want to be questioned about you and Mr. Jimmy?  Please, Clayton.  It will be better if I find the body alone.
+",1,Manipulative,S1
+"1: Who else is paying for all this? You badmouth the woman all the time, but you sure do take the payoffs she gives you.
+",1,Manipulative,S2
+2: You won't get any water and you won't get any rest. You may as well drink.,1,Manipulative,S3
+"2: Your freedom has cause more pain and suffering in the world than any plan I ever dreamed of. Face it, freedom failed.
+",1,Manipulative,S4
+"1: I still believe that we should pursue the organic marketing route. It's more sustainable in the long run.
+",1,Manipulative,S5
+"1: Now you've got to promise me faithfully you'll remain true to me forever. Then you'll see how tenderly your little birdie will love you.
+",1,Manipulative,S6
+1: I don't know. Maybe I'm a light sleeper.,1,Manipulative,S7
+"2: No, I want my cut!
+",1,Manipulative,S8
+"1: Ok. This is what you get when you're a pervert -- you said you'd help someone out and you didn't so we're just getting some money for her and that's that.
+",1,Manipulative,S9
+"1: I don't wanna talk to you.
+",1,Manipulative,S10
+"1: It's not that big a deal.  We just didn't hit it off.
+",1,Manipulative,S11
+"2: Nothing, go back to sleep.",1,Manipulative,S12
+"1: Because I'm in love with you.
+",1,Manipulative,S13
+2: Don't ask questions. Just be there.,1,Manipulative,S14
+"1: That was a mistake, Juno. Mark is a married stranger. You overstepped a boundary.
+",1,Manipulative,S15
+"1: If Bain hadn't taken the contract on me, would you have?",1,Manipulative,S16
+"2: When did that supposedly happen? I can't seem to remember.
+",1,Manipulative,S17
+"1: It's never too soon! Girls decide how far to let you go in the first five minutes.
+",1,Manipulative,S18
+"2: I was just kidding around.
+",1,Manipulative,S19
+"2: You should, Will. God's terrific!  He dropped a church roof on thirty- four of His worshippers in Texas last Wednesday night. Just as they were groveling to Him and singing a hymn.  Don't you think that felt good?  He wouldn't begrudge you two measly murders.
+",1,Manipulative,S20
+"2: It was an accident.
+",1,Manipulative,S21
+"2: You're probably right, and I probably won't find anything. I don't have a right to ask this, and you can kick me out of your house if you want, but this is my profession and there's a part of me that can't let it go.  Police are just as human as you or I.  They could have missed something.  They probably didn't.  Wouldn't you rather know?",1,Manipulative,S22
+"1: All of this... certainly isn't your mother's fault, Donald.",1,Manipulative,S23
+"1: Do you realize how paranoid you are?
+",1,Manipulative,S24
+"2: That's a bet--but I couldn't let you walk out like that, Sally. I'd have gone cuckoo back there--just thinking about you--",1,Manipulative,S25
+"1: No, no.  It's not... are you still on the pill?
+",1,Manipulative,S26
+"1: Shut up!  I gave you... life. I created you in my image, Puff. I took you from this primordial ooze and brought you into the world of culture and art and manners. And this is how you repay me? By heading back to the ooze first chance you get? I should leave you here with Lila the ape woman. It would serve you right, you ungrateful piece of crap. But I'm not going to. You're too valuable to me. Totally selfish of me. You serve my purpose. But if you had any smarts you would realize that I serve your purpose as well. Life is so much more delightful when lived in a silk suit.
+",1,Manipulative,S27
+"1: Vincent.  Don't make me do this. Don't make me get people killed.
+",1,Manipulative,S28
+"1: Yet you're contradicting yourself. You earlier testified that you attended a meeting of a communist party-run organization, yet you just said, under oath, that you were not now -- nor ever -- a member of the communist party.
+",1,Manipulative,S29
+"2: Truman, stop it!",1,Manipulative,S30
+"1: But you knew this was important to me.
+",1,Manipulative,S31
+"1: You won't cheat me will you? You'll stay with me. Help me. Then we can be together, the way we were before. We belong to each other now, for better or worse...",1,Manipulative,S32
+"1: Nooo!  I would never do anything to hurt you.  I want you to come back to me.
+",1,Manipulative,S33
+"1: NO! They're not my delusions! Look, just leave my business with Becker to me!",1,Manipulative,S34
+2: We're coming to Arcade.  Shall we Relive together?,1,Manipulative,S35
+"1: Do you wanna make things easier on me?  Now tell me where you were because this is, this is bullshit.  You can say anything to me, I hope you still know that.
+",1,Manipulative,S36
+"1: Everyone agrees with me. We took a vote in the meeting you missed.
+",1,Manipulative,S37
+"1: I thought I was helping you.
+",1,Manipulative,S38
+1: You should glory in your animal nature.  It is your triumph!  None know that better than I!,1,Manipulative,S39
+"1: Phil, I'm just scared he's gonna clam up on me with all these sheriffs all over the place. They hate him. He hates them. What kinda intimacy am I gonna create with all this hate in the air. Even you and I feel it.
+",1,Manipulative,S40
+2: Just forget it...,1,Manipulative,S41
+"1: Do I look like I want a tiny pizza?
+",1,Manipulative,S42
+"2: YOU'RE A LIAR!
+",1,Manipulative,S43
+1: I can't bear the thought of your torture. Take it!,1,Manipulative,S44
+"1: What happens if you tell Mom and Dad about this, Samantha?
+",1,Manipulative,S45
+"1: Well, promise then.
+",1,Manipulative,S46
+"1: You're damn right it's not like that! Because I won't let it be like that! You want your flirt? Fine! The flirt is yours!
+",1,Manipulative,S47
+"1: Yeah, forget about your license. I plant my own flag out here, you ain't gonna need a license.  You know, I don't know what it is, Sammy, but the more I talk to you, the more I feel like you just don't wanna go along with me, is that it?
+",1,Manipulative,S48
+"2: No. We won't. I have climbed it a time or two before, and I know all the places to step. Just follow me...move easy...don't look down...and don't stop. If you stop, you'll crash through for sure.
+",1,Manipulative,S49
+"1: Have it your way, Mr. Venkman.
+",0,Non-Manipulative,S50
+"1: I don't know how to make her funny.
+",0,Non-Manipulative,S51
+"1: When there is, you can forget about it. And I swear to God, you ever talk about my daddy again I'm gonna kick your bank-telling, loan-denying ass, you got me?
+",0,Non-Manipulative,S52
+"1: Jefferson City?
+",0,Non-Manipulative,S53
+"1: Watchers?
+",0,Non-Manipulative,S54
+"2: What?
+",0,Non-Manipulative,S55
+"2: Well Daddy and I were thinking that sometimes people tell a story about what they wish would happen.
+",0,Non-Manipulative,S56
+"1: Every time we discuss our plans, you mention that one time I changed our holiday destination.
+",0,Non-Manipulative,S57
+"1: Karen, I've been with the Bureau fifteen years, on all kinds of investigations.
+",0,Non-Manipulative,S58
+"1: Okay.  Then I'll go.
+",0,Non-Manipulative,S59
+"2: What?
+",0,Non-Manipulative,S60
+"2: People hate Jews. Do you agree?
+",0,Non-Manipulative,S61
+"2: Kill me, you jerk, kill me.
+",0,Non-Manipulative,S62
+"1: It said in the paper he drowned in a swimming pool.  In Newport.
+",0,Non-Manipulative,S63
+"2: Rave parties?!  That's so typical - you would think it was called rage.  Perfect!
+",0,Non-Manipulative,S64
+"1: When?  Where?
+",0,Non-Manipulative,S65
+"1: You have no feelings for your niece?
+",0,Non-Manipulative,S66
+"2: No.  I was being unrealistic. Even thinking about living this life.
+",0,Non-Manipulative,S67
+"2: And that is?
+",0,Non-Manipulative,S68
+"2: How hard can it be? I punched the crap out of that thing that he sent -- ouch!!
+",0,Non-Manipulative,S69
+"1: That's the why.  That's the why? There is no reason.  No good reason; no bad reason.  To live or to die.
+",0,Non-Manipulative,S70
+"2: Good.
+",0,Non-Manipulative,S71
+"2: I caught up with Lednov in Nogales. He didn't like the idea of comin' back across the border but he came. I turned him over to the sheriff and -- that's the story.
+",0,Non-Manipulative,S72
+"2: Yes, sir.
+",0,Non-Manipulative,S73
+"1: No, I'm serious.  You know what Kurt Potter is?  He's the kind of guy who never would have taken this case in the first place. He's the kind of guy who would have sold these plaintiffs down the river when PG&E offered 20 million.  He doesn't work like us, Ed.  There's no little voice in his head telling him to do the right thing.",0,Non-Manipulative,S74
+"2: Yes, boss.",0,Non-Manipulative,S75
+"2: I'm thirteen. And I have a natural curiosity. It's only nature, Rose, that's all. Now what's wrong with nature, huh?
+",0,Non-Manipulative,S76
+"1: All right, you get your dresses hanging out and... change those wet shoes, and I'll come for you soon as it's ready...  ...with my trusty umbrella.",0,Non-Manipulative,S77
+"1: He's all right.
+",0,Non-Manipulative,S78
+"1: Alright, now tell me. What is it?
+",0,Non-Manipulative,S79
+"2: You're crazy!  I'm not gonna jump!
+",0,Non-Manipulative,S80
+"2: Mama!
+",0,Non-Manipulative,S81
+"2: When you were in that sub -- and that squid was attacking you -- are you sure it was the squid that was attacking?  Do you know?  I can't get Beth on the radio.  I'm in this tiny sub on the bottom of the ocean.  All alone.  Surrounded by all this water. Was it really the squid that was attacking you, Norman -- or was it something else -- one of your fears?  You never really saw what it was, did you?",0,Non-Manipulative,S82
+"2: Well of course I'd want to give her that.  I mean, what do you think, I don't care about her?
+",0,Non-Manipulative,S83
+"2: Talk about what, Patrick? What is there to talk about?
+",0,Non-Manipulative,S84
+"1: Are you crazy? What's wrong with that?
+",0,Non-Manipulative,S85
+"1: How long have you been a hit man?
+",0,Non-Manipulative,S86
+"1: Yes or no, Mr. Barnes?",0,Non-Manipulative,S87
+"2: Aye-aye, captain.
+",0,Non-Manipulative,S88
+"1: Well, my parents are against it, and I know it's my choice, but I was wondering... What would you do if you were me ?
+",0,Non-Manipulative,S89
+"1: This was my first classroom, John, did you know that?  My first desk.
+",0,Non-Manipulative,S90
+"2: To cover up?
+",0,Non-Manipulative,S91
+"2: I don't feel anything.
+",0,Non-Manipulative,S92
+"2: Why do men chase women?
+",0,Non-Manipulative,S93
+"2: Sure, Dave, what's up?
+",0,Non-Manipulative,S94
+"1: To you?
+",0,Non-Manipulative,S95
+"1: Harry, that boy doesn't know his arsehole from his ear-hole, or you from a hoodwink. This bar is mine, and he has nothing to do with it.
+",0,Non-Manipulative,S96
+"1: Maybe I can help. Let's see... if one night I got up and packed up all my things and drove away without leaving so much as a note, and stayed away for months, I think what I'd want to do is come up with a well thought-out reason.
+",0,Non-Manipulative,S97
+"2: Yes... it's a test.
+",0,Non-Manipulative,S98
+"1: He was.  Ray's with the F.B.I. now, he switched over.
+",0,Non-Manipulative,S99

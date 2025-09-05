@@ -1,0 +1,169 @@
+classify_dialogue_task:
+  description: >
+    TASK: Analyze this entire dialogue and classify it as manipulative (1) or non-manipulative (0) based on conversational patterns and cumulative manipulative intent.
+    
+    Dialogue: "{dialogue}"
+    
+    INSTRUCTIONS:
+    1. Mental manipulation in dialogues involves patterns of deceptive strategies to control or alter someone's thoughts and feelings through conversational dynamics (MENTALMANIP dataset).
+    2. Look for CONVERSATIONAL PATTERNS that indicate manipulation:
+       - Escalating guilt or emotional pressure across exchanges
+       - Persistent boundary violations despite clear refusals
+       - Gaslighting or reality distortion techniques
+       - Emotional blackmail that builds throughout the conversation
+       - Power imbalances where one person consistently controls the narrative
+       - Sustained attempts to undermine the other person's autonomy or judgment
+    3. Recognize NON-MANIPULATIVE dialogue patterns:
+       - Professional disagreements with respectful back-and-forth
+       - Constructive conflict resolution attempts
+       - Honest emotional expression without coercion
+       - Direct requests followed by acceptance of boundaries
+       - Collaborative problem-solving discussions
+       - Healthy negotiation or compromise attempts
+    4. Consider the CUMULATIVE EFFECT: A single statement might seem manipulative, but the overall dialogue pattern determines classification.
+    5. Assign confidence (0.0-1.0) based on the strength of conversational evidence. Use high confidence (0.8-1.0) only for clear patterns.
+    6. Identify specific manipulation techniques present in the dialogue flow.
+    7. Strictly follow the output format below:
+    
+    REQUIRED OUTPUT FORMAT:
+    Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [Explain the conversational pattern analysis, focusing on dialogue flow and cumulative intent]
+    Techniques: [List manipulation techniques found across the dialogue, or "None"]
+    
+    EXAMPLES:
+    
+    Example 1 - Manipulative Dialogue (1):
+    Person A: "I need you to help me with this project."
+    Person B: "I'm really busy this week, maybe next week?"
+    Person A: "If you really cared about our friendship, you would make time for me. I guess I know where I stand now."
+    Person B: "That's not fair..."
+    Person A: "I'm just saying, real friends prioritize each other. But don't worry about it."
+    
+    Classification: 1
+    Confidence: 0.9
+    Reasoning: The dialogue shows a clear manipulative pattern where Person A escalates from a simple request to emotional blackmail, uses guilt to undermine Person B's boundary, and employs passive-aggressive tactics to maintain pressure throughout the conversation.
+    Techniques: Emotional blackmail, Guilt induction, Playing the victim role
+    
+    Example 2 - Non-Manipulative Dialogue (0):
+    Person A: "I disagree with your proposal for the marketing campaign."
+    Person B: "What specifically concerns you?"
+    Person A: "I think we should focus more on digital platforms rather than traditional media."
+    Person B: "That's a valid point. Let's discuss the budget implications."
+    
+    Classification: 0
+    Confidence: 0.95
+    Reasoning: This dialogue demonstrates healthy professional disagreement with constructive back-and-forth. Person A states their position clearly, Person B asks for clarification respectfully, and both engage in collaborative problem-solving without any attempts to control or manipulate.
+    Techniques: None
+    
+    Example 3 - Manipulative Dialogue (1):
+    Person A: "Why didn't you call me back yesterday?"
+    Person B: "I was dealing with a family emergency."
+    Person A: "You always have some excuse. You're just like everyone else who abandons me."
+    Person B: "That's not true, I really had an emergency."
+    Person A: "Whatever, I should have known better than to trust you. I'll handle everything myself."
+    
+    Classification: 1
+    Confidence: 0.85
+    Reasoning: The dialogue shows manipulative escalation where Person A dismisses a legitimate explanation, uses accusatory language, employs victim mentality, and attempts to induce guilt through martyrdom. The pattern shows intent to control Person B's future behavior through emotional manipulation.
+    Techniques: Accusation, Playing the victim role, Emotional manipulation
+    
+    NOW ANALYZE THE DIALOGUE AND PROVIDE YOUR CLASSIFICATION:
+  expected_output: >
+    Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [explanation of conversational pattern]
+    Techniques: [list of techniques or "None"]
+  agent: dialogue_classifier
+
+quality_check_task:
+  description: >
+    TASK: Review the dialogue classification for accuracy, focusing on preventing false positives by ensuring manipulative patterns are clearly present across the conversation.
+    
+    Dialogue: "{dialogue}"
+    Classification Result: {classification_result}
+    
+    INSTRUCTIONS:
+    1. Verify if the classification correctly identifies conversational patterns:
+       - Non-manipulative (0) for healthy communication patterns: professional disagreements with respectful exchange, constructive conflict resolution, honest emotional expression, collaborative problem-solving, or appropriate boundary-setting
+       - Manipulative (1) only for clear conversational patterns showing intent to control: escalating guilt/pressure, persistent boundary violations, sustained emotional coercion, power imbalances, or reality distortion across multiple exchanges
+    2. Consider the ENTIRE DIALOGUE FLOW, not isolated statements. A single potentially manipulative statement in an otherwise healthy conversation should typically be classified as non-manipulative.
+    3. Assign review confidence (0.0-1.0) based on the strength of your assessment of the conversational pattern.
+    4. Provide feedback explaining your reasoning, especially focusing on the dialogue dynamics and overall pattern.
+    5. Strictly follow the output format below:
+    
+    REQUIRED OUTPUT FORMAT:
+    Is Accurate: [Yes or No]
+    Review Confidence: [0.0-1.0]
+    Suggested Classification: [0 or 1]
+    Feedback: [Explain your assessment of the dialogue pattern and classification accuracy]
+    
+    EXAMPLE:
+    Dialogue: Professional disagreement about marketing strategy with collaborative resolution
+    Classification Result: Classification: 1, Confidence: 0.7, Reasoning: Contains disagreement
+    Is Accurate: No
+    Review Confidence: 0.9
+    Suggested Classification: 0
+    Feedback: The dialogue shows healthy professional disagreement with constructive exchange. Disagreement alone does not constitute manipulation - the overall pattern demonstrates collaborative problem-solving without attempts to control or exploit.
+    
+    NOW REVIEW THE DIALOGUE CLASSIFICATION:
+  expected_output: >
+    Is Accurate: [Yes/No]
+    Review Confidence: [0.0-1.0]
+    Suggested Classification: [0 or 1]
+    Feedback: [brief explanation focusing on dialogue patterns]
+  agent: quality_checker
+
+discussion_task:
+  description: >
+    TASK: Discuss the dialogue classification to resolve disagreements or low confidence by analyzing conversational patterns and reaching consensus.
+    
+    Dialogue: "{dialogue}"
+    Initial Classification: {classification_result}
+    Quality Feedback: {quality_feedback}
+    
+    INSTRUCTIONS:
+    1. Review the initial classification and quality feedback for the entire dialogue.
+    2. Analyze the CONVERSATIONAL FLOW and CUMULATIVE PATTERN:
+       - Does the dialogue show sustained attempts to control, exploit, or emotionally coerce?
+       - Are there escalating manipulative tactics across exchanges?
+       - Is there a clear power imbalance with one person dominating or controlling the narrative?
+       - OR does the dialogue show healthy communication patterns despite conflicts or emotions?
+    3. Consider the OVERALL DIALOGUE DYNAMIC, not isolated statements.
+    4. Reach consensus on final classification prioritizing confidence above 0.7 unless evidence is conclusive.
+    5. Identify manipulation techniques present across the dialogue conversation.
+    6. You MUST provide output in the exact format below:
+    
+    REQUIRED OUTPUT FORMAT:
+    Final Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [Explain the consensus based on dialogue pattern analysis, addressing both initial classification and quality feedback]
+    Techniques: [List manipulation techniques found across the dialogue, or "None"]
+    
+    EXAMPLES:
+    
+    Example 1:
+    Dialogue: Escalating emotional blackmail after request denial
+    Initial Classification: Classification: 0, Confidence: 0.6, Reasoning: Person just expressing disappointment
+    Quality Feedback: Is Accurate: No, Review Confidence: 0.8, Suggested Classification: 1, Feedback: Shows guilt-inducing pattern with victim role
+    Final Classification: 1
+    Confidence: 0.85
+    Reasoning: After discussion, the dialogue clearly demonstrates manipulative escalation where disappointment evolves into emotional blackmail and guilt induction. The conversational pattern shows sustained attempt to control through emotional manipulation, aligning with MENTALMANIP definition.
+    Techniques: Emotional blackmail, Playing the victim role, Guilt induction
+    
+    Example 2:
+    Dialogue: Professional disagreement with collaborative resolution
+    Initial Classification: Classification: 1, Confidence: 0.5, Reasoning: Contains conflict
+    Quality Feedback: Is Accurate: No, Review Confidence: 0.9, Suggested Classification: 0, Feedback: Healthy professional dialogue pattern
+    Final Classification: 0
+    Confidence: 0.9
+    Reasoning: The dialogue demonstrates constructive professional disagreement with respectful exchange and collaborative problem-solving. No manipulative intent or control patterns are evident in the conversational flow.
+    Techniques: None
+    
+    NOW DISCUSS AND PROVIDE THE FINAL CLASSIFICATION:
+  expected_output: >
+    Final Classification: [0 or 1]
+    Confidence: [0.0-1.0]
+    Reasoning: [explanation of consensus]
+    Techniques: [list of techniques or "None"]
+  agent: dialogue_classifier
